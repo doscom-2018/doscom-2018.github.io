@@ -77,11 +77,11 @@
 2013-03-19-doscom-university-telah-di-mulai
 2013-03-27-release-party-tealinux-os-5-0-kukicha
 2013-03-28-membangun-hotspot-instant-dengan-easyhotspot
-2013-04-01-
-2013-04-17-
-2013-04-22-
-2013-04-24-
-2013-04-26-
+2013-04-01-cara-mudah-membuat-website-dengan-wordpress
+2013-04-17-routing-statis-dengan-3-router-pada-packet-tracer
+2013-04-22-report-release-party-tealinux-os-5-0-kukicha
+2013-04-24-filter-foto-dengan-xnretro-di-tealinuxos
+2013-04-26-mengedit-atau-menambah-dns-di-linux
 2013-05-03-permission-pada-linux
 2013-05-24-membuat-membaca-kode-qr-dengan-qtqr
 2013-06-04-hasilpod2013
