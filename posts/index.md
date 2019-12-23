@@ -61,13 +61,13 @@
 
 2011-01-04-secret-semarang-creative-technology
 2011-01-04-vgasismint10
-2011-01-23-memperbaiki-youtube-freeze+
+2011-01-23-memperbaiki-youtube-freeze
 
 2012-01-21-sharing-printer-di-ubuntu
 2012-01-25-proteksi-data-di-nfs-server-pada-nas
 2012-01-29-snmp
 2012-01-29-cacti-network-monitoring
-2012-01-29-arpon+
+2012-01-29-arpon
 2012-02-18-osdlyrics-mini-lyrics-for-linux
 2012-02-29-driver-modem-haier-ce682-smartfren
 2012-02-29-tools-online-untuk-menggambar-berbagai-diagram
