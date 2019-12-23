@@ -75,11 +75,11 @@
 2012-06-13-firewallfiltermikrotik
 2012-06-13-setting-ip-static-di-fedora-15
 2012-06-14-nmbacktrack5r2+
-2012-07-09-
-2012-07-10-
-2012-07-13-
-2012-07-28-
-2012-07-28-
+2012-07-09-mudahnya-menghitung-ip-address-di-linux-menggunakan-ipcalc
+2012-07-10-google-student-ambassador-udinus
+2012-07-13-pendiri-doscom-meraih-penghargaan-iosa-2012
+2012-07-28-mencoba-firefox-os-di-linux
+2012-07-28-integrasi-google-calendar-dengan-gnome-shell
 2012-10-10-
 2012-10-15-
 2012-10-16-
