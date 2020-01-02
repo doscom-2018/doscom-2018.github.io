@@ -69,6 +69,9 @@
 2011-03-21-hotot-aplikasi-twitter-client-populer-untuk-linux-anda
 2011-03-22-release-party-tealinuxos-3-0-white-tea
 
+2011-07-07-aplikasi-lookit-screenshot
+2011-07-08-blankonf-3-semarang
+2011-07-10-pod-2011
 
 2011-09-08-ubuntu-countdown-widget-untuk-ponsel-android
 2011-09-28-lvm

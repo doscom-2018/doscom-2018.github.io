@@ -30,7 +30,7 @@ akan terlihat kernel-kernel lama yang masih terinstall di sistem
 
 hapus kernel lama yang tidak etrpakai dengan cara
 ```
-sudo apt-get remove –purge 2.6.35-28-*
+sudo apt-get remove --purge 2.6.35-28-*
 ```
 
 selamat mencoba
