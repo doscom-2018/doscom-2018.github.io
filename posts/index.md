@@ -63,6 +63,10 @@
 2011-01-04-vgasismint10
 2011-01-23-memperbaiki-youtube-freeze
 
+2012-01-05-tint2-paneltaskbar-yang-ringan
+2012-01-16-percantik-linux-dengan-gnome-pie+
+2012-01-18-menjalankan-google-chrome-chromium-browser-sebagai-root
+2012-01-20-memainkan-video-dengan-mode-ascii-art
 2012-01-21-sharing-printer-di-ubuntu
 2012-01-25-proteksi-data-di-nfs-server-pada-nas
 2012-01-29-snmp
@@ -80,13 +84,12 @@
 2012-07-13-pendiri-doscom-meraih-penghargaan-iosa-2012
 2012-07-28-mencoba-firefox-os-di-linux
 2012-07-28-integrasi-google-calendar-dengan-gnome-shell
-2012-10-10-
-2012-10-15-
-2012-10-16-
-2012-10-28-
-2012-10-23-
-2012-10-24-
-2012-10-28-
+2012-10-10-minicom-hyperterminal-on-linux
+2012-10-15-bocoran-tealinuxos-5-0
+2012-10-16-mengamankan-web-direktori-dengan-htaccess
+2012-10-23-repo-lokal-ubuntu
+2012-10-24-elinks-browser-textmode-melalui-terminal-linux
+2012-10-28-webserverapp-for-android
 
 2013-01-13-perayaan-software-freedom-day-2012
 2013-01-31-tealinux-os-5-0-named-kukicha-tea
