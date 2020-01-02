@@ -62,6 +62,10 @@
 2011-01-04-secret-semarang-creative-technology
 2011-01-04-vgasismint10
 2011-01-23-memperbaiki-youtube-freeze
+2011-02-05-install-propietary-driver-nvidia-di-ubuntu-10-04-dan-10-10
+2011-02-08-sekilas-tentang-network-manager
+2011-02-14-daftar-komponen-yang-kompatibel-dengan-ubuntu
+2011-02-20-install-nitendo-wii-dan-gamecube-emulator-dolphin-emu-pada-ubuntu
 
 2012-01-05-tint2-paneltaskbar-yang-ringan
 2012-01-16-percantik-linux-dengan-gnome-pie+

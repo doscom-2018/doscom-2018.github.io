@@ -10,173 +10,224 @@
 </p> 
 
 #### Progress
-<table>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 0px 5px;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+</style>
+<table style="width:100%" cellspacing="10">
 	<tr>
-		<td>
+		<th>
 			tahun
-		</td>
-		<td>
+		</th>
+		<th>
 			Recover
-		</td>
-		<td>
+		</th>
+		<th>
 			Total
-		</td>
-		<td>
+		</th>
+		<th>
 			Corrupt
-		</td>
+		</th>
+		<th>
+			Info
+		</th>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2008
 		</td>
-		<td>
+		<td class="right">
 			9
 		</td>
-		<td>
+		<td class="right">
 			19
 		</td>
-		<td>
+		<td class="right">
 			??
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2009
 		</td>
-		<td>
+		<td class="right">
 			7
 		</td>
-		<td>
+		<td class="right">
 			17
 		</td>
-		<td>
+		<td class="right">
 			??
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2010
 		</td>
-		<td>
+		<td class="right">
 			42
 		</td>
-		<td>
+		<td class="right">
 			42
 		</td>
-		<td>
+		<td class="right">
 			0
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
-			2011 (Migrasi dari blogspot ke wordpress) 
+		<td class="right">
+			2011 
 		</td>
-		<td>
+		<td class="right">
 			3
 		</td>
-		<td>
+		<td class="right">
 			49
 		</td>
-		<td>
+		<td class="right">
 			0
+		</td>
+		<td class="left">
+			Migrasi dari blogspot ke wordpress
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2012
 		</td>
-		<td>
+		<td class="right">
 			27
 		</td>
-		<td>
+		<td class="right">
 			27
 		</td>
-		<td>
+		<td class="right">
 			2
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2013
 		</td>
-		<td>
+		<td class="right">
 			26
 		</td>
-		<td>
+		<td class="right">
 			26
 		</td>
-		<td>
+		<td class="right">
 			1
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
-			2014 (Migrasi ke doscom.org/blog)
+		<td class="right">
+			2014 
 		</td>
-		<td>
+		<td class="right">
 			19
 		</td>
-		<td>
+		<td class="right">
 			19
 		</td>
-		<td>
+		<td class="right">
 			1
+		</td>
+		<td class="left">
+			Migrasi ke doscom.org/blog
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2015
 		</td>
-		<td>
+		<td class="right">
 			6
 		</td>
-		<td>
+		<td class="right">
 			6
 		</td>
-		<td>
+		<td class="right">
 			0
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2016
 		</td>
-		<td>
+		<td class="right">
 			2
 		</td>
-		<td>
+		<td class="right">
 			2
 		</td>
-		<td>
+		<td class="right">
 			0
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td class="right">
 			2017
 		</td>
-		<td>
+		<td class="right">
 			2
 		</td>
-		<td>
+		<td class="right">
 			2
 		</td>
-		<td>
+		<td class="right">
 			0
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 	<tr>
-		<td>
-			2018 (Mulai Down)
+		<td class="right">
+			2018 
 		</td>
-		<td>
+		<td class="right">
 			0
 		</td>
-		<td>
+		<td class="right">
 			??
 		</td>
-		<td>
+		<td class="right">
 			??
+		</td>
+		<td class="left">
+			Mulai Down
 		</td>
 	</tr>
 <table>
