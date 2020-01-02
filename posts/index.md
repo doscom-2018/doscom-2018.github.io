@@ -69,6 +69,9 @@
 2011-03-21-hotot-aplikasi-twitter-client-populer-untuk-linux-anda
 2011-03-22-release-party-tealinuxos-3-0-white-tea
 
+2011-12-27-mewarnai-terminal
+2011-12-28-meningkatkan-resolusi-layar-di-virtualbox
+
 2012-01-05-tint2-paneltaskbar-yang-ringan
 2012-01-16-percantik-linux-dengan-gnome-pie+
 2012-01-18-menjalankan-google-chrome-chromium-browser-sebagai-root
