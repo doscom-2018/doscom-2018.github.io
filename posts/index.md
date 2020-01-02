@@ -66,6 +66,8 @@
 2011-02-08-sekilas-tentang-network-manager
 2011-02-14-daftar-komponen-yang-kompatibel-dengan-ubuntu
 2011-02-20-install-nitendo-wii-dan-gamecube-emulator-dolphin-emu-pada-ubuntu
+2011-03-21-hotot-aplikasi-twitter-client-populer-untuk-linux-anda
+2011-03-22-release-party-tealinuxos-3-0-white-tea
 
 2012-01-05-tint2-paneltaskbar-yang-ringan
 2012-01-16-percantik-linux-dengan-gnome-pie+
