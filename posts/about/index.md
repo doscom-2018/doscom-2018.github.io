@@ -99,7 +99,7 @@ th, td {
 			2011 
 		</td>
 		<td class="right">
-			17
+			24
 		</td>
 		<td class="right">
 			49
