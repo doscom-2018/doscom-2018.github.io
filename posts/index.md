@@ -69,6 +69,14 @@
 2011-03-21-hotot-aplikasi-twitter-client-populer-untuk-linux-anda
 2011-03-22-release-party-tealinuxos-3-0-white-tea
 
+
+2011-09-08-ubuntu-countdown-widget-untuk-ponsel-android
+2011-09-28-lvm
+2011-09-28-hapus-kernel-lama-di-ubuntu
+2011-10-06-ubuntu-12-04-bernama-precise-pangolin
+2011-10-11-worksop-j2me-membuat-aplikasi-mobile-dengan-java
+2011-10-11-kopdar-masak-battle-chef-astrid-arum-vs-ison-terrace-cafe
+
 2011-12-27-mewarnai-terminal
 2011-12-28-meningkatkan-resolusi-layar-di-virtualbox
 
