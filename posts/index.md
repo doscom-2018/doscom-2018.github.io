@@ -82,10 +82,10 @@
 2011-05-28-
 2011-05-29-
 2011-05-29-
-2011-06-01-
-2011-06-04-
-2011-06-06-
-2011-06-18-
+2011-06-01-report-diskusi-sharing-ficos-uns-igos-center-solo-kpli-solo
+2011-06-04-rilis-libreoffice-3-4-0
+2011-06-06-backup-restore-virtualbox
+2011-06-18-10-klasifikasi-distro-terbaik-2011
 2011-07-07-aplikasi-lookit-screenshot
 2011-07-08-blankonf-3-semarang
 2011-07-10-pod-2011

@@ -5,9 +5,9 @@
 
 <br>
 <h4 align="center">9BeaFrk5xXJ5agiqvVCjK7CUNsR8shX891 <strong>XMG (MAGI) Only</strong></h4>
-<p align="center">
+<div align="center">
 	<img src="./posts/about/xmg.jpg" height="250px" alt="MXMG address">
-</p> 
+</div> 
 
 #### Progress
 <style>
@@ -99,7 +99,7 @@ th, td {
 			2011 
 		</td>
 		<td class="right">
-			24
+			28
 		</td>
 		<td class="right">
 			49
