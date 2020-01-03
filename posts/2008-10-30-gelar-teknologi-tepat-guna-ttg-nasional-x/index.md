@@ -10,8 +10,7 @@ Gelar TTG dipusatkan di kompleks PRPP Jateng, Jalan Purianjasmoro. Selain itu, a
 
 Ada juga stan dari rekan-rekan kita **Jawa Tengah Open Source Center (JOSC)**, yang memamerkan Distro Tea Linux buatan JOSC & **DOSCOM (Dian Nuswantoro Open Source Community)**.
 
-<p align="center">
+<div align="center">
 	<img src="./posts/2008-10-30-gelar-teknologi-tepat-guna-ttg-nasional-x/DSC01738.JPG" height="250px" alt="img1">
-</p> 
-
-Stan JOSC
+	<p>Stan JOSC</p>
+</div> 

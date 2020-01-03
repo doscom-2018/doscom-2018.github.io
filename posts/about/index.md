@@ -48,13 +48,13 @@ th, td {
 			2008
 		</td>
 		<td class="right">
-			9
+			20
 		</td>
 		<td class="right">
-			19
+			20
 		</td>
 		<td class="right">
-			??
+			0
 		</td>
 		<td class="left">
 			-

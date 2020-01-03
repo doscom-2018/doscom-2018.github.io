@@ -24,7 +24,7 @@ Label: FOSS Community
     <br>
     <img src="http://summit.foss-id.web.id/wp-content/uploads/2008/05/zenwalk-id-logo.png" height="75px" alt="Komunitas Zenwalk Indonesia">
     <br>
-    <img src="./posts/2008-09-05-foss-community/logo.jpg" height="75px" alt="kioss.com">
+    <img src="./posts/2008-09-05-foss-community/logo.jpg" height="55px" alt="kioss.com">
     <br>
     <img src="./posts/2008-09-05-foss-community/joomla20symbol20colormz7.png" height="75px" alt="id-joomla.com">
     <br>
