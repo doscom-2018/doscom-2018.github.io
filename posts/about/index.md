@@ -99,13 +99,13 @@ th, td {
 			2011 
 		</td>
 		<td class="right">
-			28
+			32
 		</td>
 		<td class="right">
 			49
 		</td>
 		<td class="right">
-			0
+			1
 		</td>
 		<td class="left">
 			Migrasi dari blogspot ke wordpress

@@ -102,10 +102,10 @@
 2011-10-06-ubuntu-12-04-bernama-precise-pangolin
 2011-10-11-worksop-j2me-membuat-aplikasi-mobile-dengan-java
 2011-10-11-kopdar-masak-battle-chef-astrid-arum-vs-ison-terrace-cafe
-2011-11-01-
-2011-11-04-
-2011-11-22-
-2011-11-23-
+2011-11-01-open-source-dan-indonesia-bukanlah-pasangan-serasi
+2011-11-04-cara-menampilkan-menu-designer-phpmyadmin-di-ubuntu-2
+2011-11-22-driver-vga-sis-771671
+2011-11-23-script-untuk-menginstall-firefox-9-evolution-mail-3-2-1-filezilla-ftp-client-dan-liferea-rss-reader-di-ubuntu-11-10+
 2011-12-27-mewarnai-terminal
 2011-12-28-meningkatkan-resolusi-layar-di-virtualbox
 -
