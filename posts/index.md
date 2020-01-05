@@ -32,10 +32,10 @@
 2009-03-27-javafx-coding-challenge
 2009-04-01-pembekalan-organisasi-doscom
 2009-04-15-backup-dan-restore-partisi-linux-dengan-partimage
-2009-05-03-
-2009-05-09-
-2009-05-14-
-2009-05-27-
+2009-05-03-panduan-instalasi-ubuntu-904-jaunty
+2009-05-09-mounting-otomatis-partisi-ntfs
+2009-05-14-mudah-membuat-file-iso-dari-cddvd
+2009-05-27-mengakses-partisi-linux-dari-windows
 2009-06-04-
 2009-06-26-
 2009-08-09-chatting-dengan-pidgin-yuk

@@ -1,0 +1,6 @@
+--2020-01-05 13:15:18--  http://redirect.viglink.com/?format=go
+Resolving redirect.viglink.com (redirect.viglink.com)... 52.25.181.111, 34.211.81.184
+Connecting to redirect.viglink.com (redirect.viglink.com)|52.25.181.111|:80... connected.
+HTTP request sent, awaiting response... 400 
+2020-01-05 13:15:21 ERROR 400: (no description).
+
