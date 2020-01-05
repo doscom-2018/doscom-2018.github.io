@@ -76,10 +76,10 @@ th, td {
 			2009
 		</td>
 		<td class="right">
-			14
+			36
 		</td>
 		<td class="right">
-			35
+			36
 		</td>
 		<td class="right">
 			0

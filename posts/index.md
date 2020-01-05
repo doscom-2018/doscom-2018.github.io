@@ -56,6 +56,12 @@
 2009-12-26-repositori-ubuntu-910-karmic-koala
 2009-12-28-hotspot-lokal-dinus-open-source
 -
+2010-01-11-review-software-imagination-21
+2010-01-11-review-software-open-movie-editor
+2010-01-11-review-software-gkamus-03-1
+2010-01-12-tokoh-linus-benedict-torvalds
+2010-01-13-review-software-real-player-11
+2010-01-14-siapa-yang-mau-rp-50-juta
 2010-01-20-multiget-file-downloader-for-linux
 2010-01-20-capture-screenshot-dengan-menggunakan-gimp
 2010-01-21-edit-grub-di-ubuntu-910
@@ -89,6 +95,7 @@
 2010-08-26-blokir-konten-pornografi-dengan-dns-nawala-di-linux
 2010-09-27-belajar-membuat-gateway-internet-di-linux
 2010-09-27-driver-smart-ac-2726-linux
+2010-11-03-membuat-hotspot-dengan-mikrotik-routeros
 2010-11-04-dari-semarang-untuk-merapi
 2010-11-04-install-nautilus-terminal-di-ubuntu
 2010-11-17-eyeos-sistem-operasi-open-source-berbasis-web
