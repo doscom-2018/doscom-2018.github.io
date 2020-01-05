@@ -30,8 +30,8 @@
 2009-03-23-live-usb-ubuntu-810-intrepid-ibex
 2009-03-27-kernel-2629-kernel-baru-maskot-baru
 2009-03-27-javafx-coding-challenge
-2009-04-01-
-2009-04-15-
+2009-04-01-pembekalan-organisasi-doscom
+2009-04-15-backup-dan-restore-partisi-linux-dengan-partimage
 2009-05-03-
 2009-05-09-
 2009-05-14-
