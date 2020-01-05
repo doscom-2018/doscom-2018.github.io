@@ -41,8 +41,8 @@
 2009-08-09-chatting-dengan-pidgin-yuk
 2009-08-10-pindahkan-partisi-instalasi-ke-partisi-lain
 2009-08-13-domain-baru-doscom
-2009-08-18-
-2009-08-20-
+2009-08-18-capture-screenshot-dengan-menggunakan-gimp
+2009-08-20-e-mail-account-7-gb-gratis-untuk-anggota-doscom
 2009-09-06-
 2009-09-09-
 2009-09-18-
