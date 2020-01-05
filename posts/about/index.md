@@ -242,6 +242,3 @@ This blog uses very little server side processing as possible. I hope you're und
 
 <br>
 > "Walaupun kami beda Sistem Operasi dan Software Aplikasi dengan kebanyakan orang tapi bukan berarti kami terpinggirkan, justru kami merasa di depan untuk siap sedia memberikan solusi sekaligus pembelajaran keterbukaan tentang ilmu dan teknologi informasi." - Edy Mulyanto, S.Si, M.Kom (Founder of doscom)
-
-<br>
-> "Galatians 4:16. Have I now become your enemy by telling you the truth?"
