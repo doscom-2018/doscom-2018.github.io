@@ -1,13 +1,5 @@
-### **Blog ini adalah usaha untuk "Memulihkan" blog doscom lama yang telah hilang** 
-> Kami berusaha sebaik mungkin untuk memulihkan blog doscom dari berbagai sumber yang masih tersedia.
-
-### Like our work? want to donate? give me a coffee or 10
-
-<br>
-<h4 align="center">9BeaFrk5xXJ5agiqvVCjK7CUNsR8shX891 <strong>XMG (MAGI) Only</strong></h4>
-<div align="center">
-	<img src="./posts/about/xmg.jpg" height="250px" alt="img">
-</div> 
+### **Tentang Blog Doscom** 
+> Blog ini adalah kumpulan tulisan pengurus dan sesepuh doscom baik dulu sekarang maupun seterusnya.
 
 <br>
 > This blog is made possible using [ShowdownJS](https://github.com/showdownjs/showdown), 
@@ -93,10 +85,10 @@ th, td {
 			2010
 		</td>
 		<td class="right">
-			42
+			49
 		</td>
 		<td class="right">
-			42
+			49
 		</td>
 		<td class="right">
 			0
@@ -232,13 +224,32 @@ th, td {
 			0
 		</td>
 		<td class="right">
-			??
+			0
 		</td>
 		<td class="right">
-			??
+			0
 		</td>
 		<td class="left">
 			Mulai Down
+		</td>
+	</tr>
+	<tr>
+		<td class="right">
+			<b>
+				Total
+			</b> 
+		</td>
+		<td class="right">
+			236
+		</td>
+		<td class="right">
+			236
+		</td>
+		<td class="right">
+			5
+		</td>
+		<td class="left">
+			-
 		</td>
 	</tr>
 <table>
