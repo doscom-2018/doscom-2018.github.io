@@ -1,7 +1,7 @@
 ## Blog Doscom
 > Blog ini adalah kumpulan tulisan pengurus dan sesepuh doscom baik dulu sekarang maupun seterusnya.
 
-blog ini dibuat dengan custom framework yang menggabungkan markdown parser, bootstrap 3 dan XMLHttpRequest API.
+blog ini dibuat dengan custom framework yang menggabungkan [markdown parser](https://github.com/showdownjs/showdown), [bootstrap 3](https://getbootstrap.com/) dan [XMLHttpRequest API](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
 
 ### Untuk membuat post baru, lakukan
 1. clone git ini.
