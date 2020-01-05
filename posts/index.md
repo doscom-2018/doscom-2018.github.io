@@ -47,9 +47,10 @@
 2009-09-09-menambahkan-ekstra-font-set
 2009-09-18-selamat-hari-raya-idul-fitri
 2009-09-26-launching-forum-diskusi-dinus-open-source-community
-2009-10-08-
-2009-10-18-
-2009-10-30-
+2009-10-08-semarak-software-freedom-day-2009
+2009-10-14-logo-baru-dinus-open-source-community
+2009-10-18-lomba-blog-open-source-2009
+2009-10-30-recovery-partisi-with-linux-partedmagic
 2009-12-09
 2009-12-18
 2009-12-26
