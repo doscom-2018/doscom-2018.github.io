@@ -1,6 +1,8 @@
 ## Blog Doscom
 > Blog ini adalah kumpulan tulisan pengurus dan sesepuh doscom baik dulu sekarang maupun seterusnya.
 
+<https://blog.doscom.org>
+
 blog ini dibuat dengan custom framework yang menggabungkan [markdown parser](https://github.com/showdownjs/showdown), [bootstrap 3](https://getbootstrap.com/) dan [XMLHttpRequest API](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
 
 ### Untuk membuat post baru, lakukan
@@ -36,5 +38,3 @@ YYYY-MM-DD-judul-post
 
 ### Kekurangan
 * spacing dan layouting masih cukup rumit karena markdown parser yang kurang sempurna namun dapat diakali dengan menggunakan html.
-
-<https://http://blog.doscom.org>
