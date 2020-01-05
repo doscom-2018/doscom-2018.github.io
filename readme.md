@@ -15,6 +15,8 @@ YYYY-MM-DD-judul-post
 5. git add, commit, dan push.
 6. pull request ke repositori utama.
 
+> pastikan tak menggunakan karakter selain `1234567890abcdefghijklmnopqrstuvwxyz` dan `-` pada index
+
 ### Cara kerja framework blog
 1. blog diload oleh user
 2. blog meload script core.js
