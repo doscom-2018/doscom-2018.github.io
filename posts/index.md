@@ -36,8 +36,8 @@
 2009-05-09-mounting-otomatis-partisi-ntfs
 2009-05-14-mudah-membuat-file-iso-dari-cddvd
 2009-05-27-mengakses-partisi-linux-dari-windows
-2009-06-04-
-2009-06-26-
+2009-06-04-workshop-gratis-pelatihan-open-source
+2009-06-26-aplikasi-burning-brasero
 2009-08-09-chatting-dengan-pidgin-yuk
 2009-08-10-pindahkan-partisi-instalasi-ke-partisi-lain
 2009-08-13-domain-baru-doscom
