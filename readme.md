@@ -3,19 +3,19 @@
 
 blog ini dibuat dengan custom framework yang menggabungkan markdown parser, bootstrap 3 dan XMLHttpRequest API.
 
-Untuk membuat post baru, lakukan
+### Untuk membuat post baru, lakukan
 1. clone git ini.
-2. masuk ke posts dan buat folder baru dengan format
+2. masuk ke posts dan buat folder baru dengan format.
 ```
 YYYY-MM-DD-judul-post
 ```
-3. buka `index.md` dan tambahkan nama folder ke index
-4. masuk ke folder yang baru di buat dan buat `index.md`
-5. tulis post yang diinginkan pada index.md dengan formatting markdown &/ html
-5. git add, commit, dan push
+3. buka `index.md` dan tambahkan nama folder ke index.
+4. masuk ke folder yang baru di buat dan buat `index.md`.
+5. tulis post yang diinginkan pada index.md dengan formatting markdown &/ html.
+5. git add, commit, dan push.
 6. pull request ke repositori utama.
 
-Cara kerja framework blog
+### Cara kerja framework blog
 1. blog diload oleh user
 2. blog meload script core.js
 3. core.js melakukan xmlhttprequest ke posts/index.md 
@@ -26,5 +26,13 @@ Cara kerja framework blog
 8. jika url tak berupa custom page, maka load homepage
 9. homepage berupa index ke-0 pada posts/index.md 
 10. jika url berupa custom page yang defined, load defined page
+
+### Kelebihan
+* penulis dapat dengan mudah menulis diberbagai platform dengan syarat terinstall git.
+* penulis tak perlu menginstall tools tambahan seperti [Hugo](https://gohugo.io/) & [Jekyll](https://jekyllrb.com/).
+* penulis tak perlu secara manual mengenerate static page setelah menulis.
+
+### Kekurangan
+* spacing dan layouting masih cukup rumit karena markdown parser yang kurang sempurna namun dapat diakali dengan menggunakan html.
 
 <https://http://blog.doscom.org>
