@@ -51,10 +51,10 @@
 2009-10-14-logo-baru-dinus-open-source-community
 2009-10-18-lomba-blog-open-source-2009
 2009-10-30-recovery-partisi-with-linux-partedmagic
-2009-12-09
-2009-12-18
-2009-12-26
-2009-12-28
+2009-12-09-workshop-open-source-untuk-tunanetra
+2009-12-18-30-tunanetra-dilatih-operasikan-komputer-bicara
+2009-12-26-repositori-ubuntu-910-karmic-koala
+2009-12-28-hotspot-lokal-dinus-open-source
 -
 2010-01-20-multiget-file-downloader-for-linux
 2010-01-20-capture-screenshot-dengan-menggunakan-gimp
