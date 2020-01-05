@@ -6,7 +6,7 @@
 <br>
 <h4 align="center">9BeaFrk5xXJ5agiqvVCjK7CUNsR8shX891 <strong>XMG (MAGI) Only</strong></h4>
 <div align="center">
-	<img src="./posts/about/xmg.jpg" height="250px" alt="MXMG address">
+	<img src="./posts/about/xmg.jpg" height="250px" alt="img">
 </div> 
 
 <br>

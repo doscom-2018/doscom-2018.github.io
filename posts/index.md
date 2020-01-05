@@ -43,10 +43,10 @@
 2009-08-13-domain-baru-doscom
 2009-08-18-capture-screenshot-dengan-menggunakan-gimp
 2009-08-20-e-mail-account-7-gb-gratis-untuk-anggota-doscom
-2009-09-06-
-2009-09-09-
-2009-09-18-
-2009-09-26-
+2009-09-06-ubucleaner
+2009-09-09-menambahkan-ekstra-font-set
+2009-09-18-selamat-hari-raya-idul-fitri
+2009-09-26-launching-forum-diskusi-dinus-open-source-community
 2009-10-08-
 2009-10-18-
 2009-10-30-
