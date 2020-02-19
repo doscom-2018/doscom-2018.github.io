@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Dinus Opensource Community - Blog</title>
-    <!-- Bootstrap 3 -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css"/>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Dinus Opensource Community - Blog</title>
+	<!-- Bootstrap 3 -->
+	<link rel="stylesheet" href="./css/bootstrap.min.css"/>
 	<script src="./js/jquery.min.js"></script>
 	<script src="./js/bootstrap.min.js"></script>
-    <!-- Markdown Parser -->
-    <script src="./js/showdown.min.js"></script>
-    <!-- My CSS -->
-    <link rel="stylesheet" href="css/style.css"/>
-    <!-- <link rel="stylesheet" href="css/github-markdown.css"/> -->
-    <!-- Google Font -->
+	<!-- Markdown Parser -->
+	<script src="./js/showdown.min.js"></script>
+	<!-- My CSS -->
+	<link rel="stylesheet" href="css/style.css"/>
+	<!-- <link rel="stylesheet" href="css/github-markdown.css"/> -->
+	<!-- Google Font -->
 	<link href="https://fonts.googleapis.com/css?family=Barlow" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100&display=swap" rel="stylesheet">
 	<!-- icon -->
 	<link rel="icon" href='./assets/favicon.png' type="image/x-icon"/>
-    <!-- Refresher Script -->
-    <script>
+  <!-- Refresher Script -->
+	<script>
 		function refreshed(){
 			location.reload();
 			window.scrollTo(0, 0); 
@@ -33,49 +33,43 @@
 				window.scrollTo(0, 0);
 			});
 		});
-    </script>
-    <!-- MARKDOWN PARSER AND CORE -->
+  </script>
+  <!-- MARKDOWN PARSER AND CORE -->
 	<script>
-	window.onload = function mainLoader(){
-		var reqIDX = new XMLHttpRequest();
-		reqIDX.open("GET", "./posts/index.md", true);
-		reqIDX.onreadystatechange = function(oEvent){
-			if(reqIDX.readyState === 4){
-				if(reqIDX.status === 200){
-					var mylog = "#[INDEX] XMLHttpRequest Success!";
-					getPostsArray(reqIDX.responseText);
-					console.log(mylog);
-				}else{
-					var mylog = "#[INDEX] XMLHttpRequest Error! " + reqIDX.statusText;
-					var pagelog = "<br><br><br><br><br><br><br>\
-						<div align=\"center\">\
-							<h1 class=\"not-found-nmbr\">404</h1>\n\
-							<h1>Index Not Found!</h1>\n\
-							<h3>Sorry the main index for this website could not be found.</h3>\
-							<h4>[INDEX] XMLHttpRequest Error!</h4>\
-						</div>";
-					showMarkdown(pagelog, "#", "#");
-					console.log(mylog);
+		window.onload = function mainLoader(){
+			var reqPGE = new XMLHttpRequest();
+			reqPGE.open("GET","./pages/index.md", true);
+			reqPGE.onreadystatechange = function(oEvent){
+				if(reqPGE.readyState === 4){
+					if(reqPGE.status === 200){
+						var mylog = "#[PAGE] XMLHttpRequest Success!";
+						getPagesArray(reqPGE.responseText);
+						console.log(mylog);
+					}else{
+						var mylog = "#[PAGES] XMLHttpRequest Error! " + reqPGE.statusText;
+						var pagelog = "<br><br><br><br><br><br><br>\
+							<div align=\"center\">\
+								<h1 class=\"not-found-nmbr\">404</h1>\n\
+								<h1>Index Not Found!</h1>\n\
+								<h3>Sorry the main index for this website could not be found.</h3>\
+								<h4>[INDEX] XMLHttpRequest Error!</h4>\
+							</div>";
+						showMarkdown(pagelog, "#", "#", "PAGE");
+						console.log(mylog);
+					}
 				}
-			}
-		}; 
-		reqIDX.send(null);
-	}
+			};
+			reqPGE.send(null);
+		}
 	</script>
 	<script src="./js/core.js"></script>
-    <script src="./js/mdparser.js"></script>
+  <script src="./js/mdparser.js"></script>
 </head>
 <body>
 	<div class="container mycontainer">
 		<div class="row">
 			<div class="col-sm-12 text-right">
-				<a style="cursor: pointer;color:#55688A;text-shadow: 0px 1px #ddd;font-size:22px;" onclick="location.href='#';refreshed()">Home</a>
-				<a style="color:#55688A;text-shadow: 0px 1px #ddd;font-size:18px"> |</a>
-				<a style="cursor: pointer;color:#55688A;text-shadow: 0px 1px #ddd;font-size:22px;" onclick="location.href='#index';refreshed()">Index</a>
-				<a style="color:#55688A;text-shadow: 0px 1px #ddd;font-size:18px"> |</a>
-				<a style="cursor: pointer;color:#55688A;text-shadow: 0px 1px #ddd;font-size:22px;" onclick="location.href='#contact';refreshed()">Contact</a>
-				<a style="color:#55688A;text-shadow: 0px 1px #ddd;font-size:18px"> |</a>
-				<a style="cursor: pointer;color:#55688A;text-shadow: 0px 1px #ddd;font-size:22px;" onclick="location.href='#about';refreshed()">About</a>
+				<div id="Pages"></div>
 			</div>
 		</div>
 		<div class="row">
@@ -132,6 +126,7 @@
 				or change your browser to Google Chrome or Mozilla Firefox
 				</h3>
 			</div>
+			<div id="Comments" class="col-sm-12"></div>
 		</div>
 		<div class="row">
 			<br>
@@ -146,4 +141,10 @@
 		</div>
     </div>
 </body>
+<script>
+	function enableComments(){
+		//change if necesscary
+		return true;
+	}
+</script>
 </html>
