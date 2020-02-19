@@ -2,7 +2,7 @@
 _ylpmiskrad | 05/01/2012 | 4 comments_
 
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 dikutip dari sini > [tint2](http://code.google.com/p/tint2/)
@@ -11,7 +11,7 @@ dikutip dari sini > [tint2](http://code.google.com/p/tint2/)
 
 bisa di lihat di system monitor, tint2 jauh lebih ringan dari pada gnome-panel.
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 berikut cara pemasangannya:
@@ -27,7 +27,7 @@ name: tint2
 command: tint2
 ```
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 kemudian logout/restart.

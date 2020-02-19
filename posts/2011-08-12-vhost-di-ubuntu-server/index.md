@@ -27,7 +27,7 @@ DocumentRoot /home/tealinuxos/www
 ```
 Sehingga isinya menjadi seperti ini :
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </div> 
 
 simpan dan Reload Apache

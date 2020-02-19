@@ -18,5 +18,5 @@ sudo fc-cache -fv
 **Kemudian Logout lagu login kembali, font siap digunakan**
 
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="img">
+	<img src="./assets/noimg.jpg" height="250px" alt="img">
 </div> 

@@ -21,7 +21,7 @@ sudo apt-get install lookit
 ```
 
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="screenshot">
+	<img src="./assets/noimg.jpg" height="250px" alt="screenshot">
 </p> 
 
 Menarik bukan? :)

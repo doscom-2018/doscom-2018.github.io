@@ -19,17 +19,17 @@ kalau udah terinstall, cara menggunakan elinks seperti ini
 
 ketikan “elinks” di terminal dan tekan enter . maka akan masuk ke browser text mode ala elinks
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 misal kita memasukkan url <mazumam.web.id>, maka tampilan webnya akan seperti ini
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 ya, yang tampil hanya textnya saja… jadi, otomatis browsing dengan elinks akan lebih cepat. kesimpulannya, kalau kita brwosing cuma butuh text atau artikelnya saja, pakailah elinks, untuk menghemat kuota internet . haha. untuk keluar dari browser elinks, caranya cukup mudah, tekan ESC , maka menu akan keluar dibagian atas. kemudian arahkan ke file dan pilih exit.
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 sekian, semoga bermanfaat,

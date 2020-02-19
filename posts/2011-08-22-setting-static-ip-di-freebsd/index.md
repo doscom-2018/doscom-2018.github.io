@@ -12,7 +12,7 @@ pertama yang harus dilakukan adalah, kita harus mengecek nama interfacenya, cara
 # ifconfig
 ```
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="noimg">
+	<img src="./assets/noimg.jpg" height="250px" alt="noimg">
 </div> 
 
 kita lihat nama interfacenya, disitu tertulis `em0` dan `em1`. nah kita akan mencoba setting static ip pada `em0`

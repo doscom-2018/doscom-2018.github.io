@@ -38,7 +38,7 @@ Cek skema Hard Disk menggunakan perintah: fdisk
 $ sudo fdisk -l
 ```
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 Hasilnya, terlihat ada 3 buah Hard Disk yang terbaca oleh sistem dengan rincian:
@@ -55,22 +55,22 @@ Hasilnya, terlihat ada 3 buah Hard Disk yang terbaca oleh sistem dengan rincian:
 
 setelah mengetahui skema instalasi Hard Disk di atas, selanjutnya saya akan buat /dev/sdb dan/dev/sdc sebagai Physical Volume, dengan perintah: pvcreate
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 Untuk mengecek Physical Volume yang sudah dibuat, gunakan perintah: pvs
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 kemudian, saya akan menggabungkan 2 buah Physical Volume tadi menjadi 1 buah Volume Group dengan nama DATA, dengan perintah: vgcreate
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 Untuk mengeek Volume Group yang sudah dibuat, gunakan perintah: vgs
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 Sampai disini, saya sudah membuat sebuah Volume Group dengan nama **/dev/DATA** yang berukuran 40GB. Selanjutnya, saya akan membuat Volume Group tadi menjadi Logical Volume.
@@ -79,25 +79,25 @@ Sampai disini, saya sudah membuat sebuah Volume Group dengan nama **/dev/DATA** 
 
 Saya akan hanya membuat 2 buah Logical Volume dengan nama **DATA_SAMBA** pada Volume Group ini yang berukuran 30GB dan **DATA_WWW** dengan ukuran 10GB. Dengan perintah: lvcreate
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 > catatan : `-l 100%FREE` pada lvcreate yg kedua maksudnya adalah menggunakan seluruh sisa volume group untuk logical volume DATA_WWW
 
 Untuk melihat hasil dari pembuatan Logical Volume di atas, gunakan perintah: lvs
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 Setelah selesai membuat Logical Volume seperti langkah di atas, selanjutnya adalah mem-Format Logical Volume `/dev/DATA/DATA_SAMBA` dan `/dev/DATA/DATA_WWW` agar dapat dibaca dan digunakan untuk menyimpan dan mengoperasikan file/data di dalamnya, dalam contoh ini saya mem-format `DATA_WWW` menggunakan `EXT4`, dan `DATA_SAMBA` menggunakan `NTFS`. Dengan perintah-perintah sebagai berikut:
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 > catatan: Pemilihan jenis File System yang akan di-Format-kan ke dalam Logical Volume bisa disesuaikan dengan kebutuhan

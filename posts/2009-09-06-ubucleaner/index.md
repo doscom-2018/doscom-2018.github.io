@@ -17,7 +17,7 @@ Buka Terminal (Applications->Accessories->Terminal) Lalu copy + paste kode dibaw
 wget http://www.opendesktop.org/CONTENT/content-files/71529-ubucleaner.sh
 ```
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="Image and video hosting by TinyPic">
+	<img src="./assets/noimg.jpg" height="250px" alt="Image and video hosting by TinyPic">
 </div> 
 
 Lalu copy + paste:
@@ -30,7 +30,7 @@ Untuk menjalankan script
 ./71529-ubucleaner.sh
 ```
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="Image and video hosting by TinyPic">
+	<img src="./assets/noimg.jpg" height="250px" alt="Image and video hosting by TinyPic">
 </div> 
 
 

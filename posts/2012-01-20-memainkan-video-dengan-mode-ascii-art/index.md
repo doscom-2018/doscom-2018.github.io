@@ -7,7 +7,7 @@ bosan nonton video kualitas Blu-ray ??, mungkin agan perlu ini :D. Dengan CACA a
 
 ini screenshotnya, video radityadika via VLC+CACA
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 berikut cara pemasangannya [ saya mencoba dengan OS Backtrack 5 R1 ]
