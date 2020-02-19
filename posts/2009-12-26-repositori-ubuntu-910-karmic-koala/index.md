@@ -4,7 +4,7 @@ _Diposting oleh Dinus Open Source Community di 15.42 . Sabtu, 26 Desember 2009_
 Label: Repository, Ubuntu
 
 <div align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="img">
+	<img src="./assets/noimg.jpg" height="250px" alt="img">
 </div> 
 
 Telah tersedia Repository ubuntu 9.10 Karmic Koala. Bagi teman-teman yang ingin mengkopi bisa langsung ke camp DOSCOM (yang terletak sebelah kantin UDINUS).

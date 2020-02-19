@@ -49,12 +49,12 @@ fungsi dari -c hanya untuk memberikan efek warna, jadi hanya bersifat optional, 
 
 lakukan setup pada minicom tersebut, dengan menekan tombol `CTRL + A` lalu `O`, maka akan keluar tampilan berikut :
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 pilih `serial Port Setup`, lalu edit sesuai kebutuhan
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 untuk serial device tekan tombol `A` lalu sesuaikan hardware yang dikenal tadi, seperti punya saya menggunakan device `/dev/ttyUSB0`,
@@ -63,23 +63,23 @@ untuk `baud rate`, tekan tombol `E` lalu sesuaikan, kalau pada juniper yang saya
 
 berikut hasil dari remote switch Juniper saya menggunakan Minicom
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 berikut perangkat yang saya gunakan :
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 
 1 Converter (USB to DB9 serial adapter),  1 Converter Serial (RJ45 to DB9 Female), 1 Utp Straight.
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 1 Converter (USB to DB9 serial adapter),
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="no image">
+	<img src="./assets/noimg.jpg" height="250px" alt="no image">
 </p> 
 
 1 Converter Serial (RJ45 to DB9 Female)

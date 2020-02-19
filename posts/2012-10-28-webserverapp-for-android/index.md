@@ -12,32 +12,32 @@ untuk ukuranya sendiri app ini tergolong kecil gan, hanya dengan 90anKB agan sud
 * install aplikasi tersebut melalui PlayStore
 * buat direktory untu menyimpan file webserver anda, seperti public_html atau WwW, kalau ane coba bikin direktory /sdcard/webku
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 * setelah jadi coba bikin file index.html di dalam folder webku. bisa menggunakan editor android terserah anda. lalu isi file tersebut dengan html coding.
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 * setelah berhasil, simpan file tersebut. sekarang saatnya mengkonfigurasi kes webserver
 * buka kws anda bisa cari di menu
 * buka pilihan dengan tombol menu di android device agan masing2. lalu masuk ke menu setting
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 * setelah keluar menu setting, pada home directory arahkan ke folder wrbserver agan, sevara default menggunakan folder /sdard kalo punya ane di /sdcard/webku
 * setelh itu setting port yang akan digunakan, secara default akan menggunakan port 8080
 setelah selesai kembali ke halaman kws utama lalu klik start Server. jika tidak ada error akan keluar hasil berikut :
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 * pada tombol start server akan berubah menjadi hijau, dan tulisanya berubah menjadi stop server berarti menunjukan webserver telah berjalan.
 * untuk mengecek silahkan buka browser anda lalu isi dengan alamat 127.0.0.1:8080 maka akan terlihat hasil dari index.html anda seperti berikut :
 <p align="center">
-	<img src="./posts/about/noimg2.png" height="250px" alt="no image">
+	<img src="./assets/noimg2.png" height="250px" alt="no image">
 </p> 
 
 mantebskan gan, silahkan mencoba dam semoga berhasil.

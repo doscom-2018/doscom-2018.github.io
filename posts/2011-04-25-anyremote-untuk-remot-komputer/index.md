@@ -25,19 +25,19 @@ Buka semua aplikasi tadi yang sudah diinstall. aplikasi ganyremote dapat ditemuk
 
 Setelah aplikasi ganyremote dibuka akan muncul icon di sisi kanan atas.
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="ganyremote">
+	<img src="./assets/noimg.jpg" height="250px" alt="ganyremote">
 </p> 
 
 klik icon ganyremote dan setting pengaturannya
 
 Pengaturannya dengan mengklik Setup –> Preferences. Setelah terbuka kolom pengaturannya, pastikan pada bagian tulisan All tercentang.
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="centang all">
+	<img src="./assets/noimg.jpg" height="250px" alt="centang all">
 </p> 
 
 Setelah klik OK akan muncul pilihan aplikasi yang akan di remote dari hp. Pilih aplikasi atau software yang pada kolom Mode bertuliskan Server. kemudian klik Start
 <p align="center">
-	<img src="./posts/about/noimg.jpg" height="250px" alt="noimg">
+	<img src="./assets/noimg.jpg" height="250px" alt="noimg">
 </p> 
 
 Cara setting pengaturan pada hp yaitu dengan membuka anyremote kemudian pilih option –> ENTER BT address dan masukkan 12 digit alamat bluetooth komputer contohnya 00242CFEA592:19.
