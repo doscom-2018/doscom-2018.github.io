@@ -9,7 +9,7 @@ blog ini dibuat dengan custom framework yang menggabungkan [markdown parser](htt
 1. clone git ini.
 2. masuk ke posts dan buat folder baru dengan format.
 ```
-YYYY-MM-DD-judul-post
+YYYY-MM-DD-Judul-Post-Yang-Akan-Dibuat
 ```
 3. buka `index.md` dan tambahkan nama folder ke index.
 4. masuk ke folder yang baru di buat dan buat `index.md`.
@@ -17,19 +17,20 @@ YYYY-MM-DD-judul-post
 5. git add, commit, dan push.
 6. pull request ke repositori utama.
 
-> pastikan tak menggunakan karakter selain `1234567890abcdefghijklmnopqrstuvwxyz` dan `-` pada index
+> pastikan tak menggunakan karakter selain `1234567890abcdefghijklmnopqrstuvwxyz` dan `-` sebagai pemisah pada index
 
 ### Cara kerja framework blog
-1. blog diload oleh user
-2. blog meload script core.js
-3. core.js melakukan xmlhttprequest ke posts/index.md 
-4. core.js mengcapture url yang direquest user
-5. jika url terdapat pada index, core.js melakukan xmlhttprequest sesuai post yang dituju
-6. kemudian index pada post diparse ke html dan ditampilkan ke page
-7. jika url tak ada maka respond 404
-8. jika url tak berupa custom page, maka load homepage
-9. homepage berupa index ke-0 pada posts/index.md 
-10. jika url berupa custom page yang defined, load defined page
+1. Blog diload oleh user
+2. Blog meload script `js/core.js`
+3. `js/core.js` melakukan `XmlHttpRequest (XHR)` ke `pages/index.md` 
+4. `js/core.js` mengcapture url yang direquest user
+5. Jika `URL` terdapat pada `pages/index.md`, `js/core.js` melakukan `XHR` sesuai page yang dituju
+6. Kemudian `pages/page_yang_dituju/index.md` diparse ke html dan ditampilkan ke blog
+7. Jika `URL` tak ada pada `pages/index.md` maka lakukan `XHR` ke `posts/index.md`
+8. Jika `URL` terdapat pada `posts/index.md`, `js/core.js` melakukan `XHR` sesuai post yang dituju
+9. Kemudian `posts/page_yang_dituju/index.md` diparse ke html dan ditampilkan ke blog
+10. Jika `URL` berupa kosong, maka load `Homepage`
+11. Jika `URL` tidak ada pada `pages/index.md` dan `posts/index.md` maka return `404`
 
 ### Kelebihan
 * penulis dapat dengan mudah menulis diberbagai platform dengan syarat terinstall git.
