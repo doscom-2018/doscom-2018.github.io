@@ -37,7 +37,7 @@ function getPagesArray(text){
 		var hash = url.replace("#", "");
 		hash = hash.replace("!","");
 		hash = hash.toLowerCase();
-		console.log(hash);
+		//console.log(hash);
 	
 	//if post url match with page index
 		for(var i=0; i<arrPages.length; i++){
@@ -84,19 +84,25 @@ function getPagesArray(text){
 		text = text.split(' ').join('');
 	//store original data
 		var arrPure = text.split("\n");
-		arrPure.reverse(); 
+		arrPure.reverse();
+		var arrIndex = arrPure; 
 	//store processed data
-		text = text.toLowerCase();
-		var arrPosts = text.split("\n");
+		var arrPosts = text.toLowerCase();
+		arrPosts = arrPosts.split("\n");
 		arrPosts.reverse(); 
 	//filter array (remove empty value)
-		var arrPosts = arrPosts.filter(function(el) { return el; });
-		var arrPure = arrPure.filter(function(el) { return el; });
+		arrPosts = arrPosts.filter(function(el) { return el; });
+		arrPure = arrPure.filter(function(el) { return el; });
 		//console.log(arrPosts);console.log(arrPure);
 	//filter array post (remove seperator)
 		for(var i=0; i<arrPosts.length; i++){
 			if(arrPosts[i].length == "1" && arrPosts[i] == "-"){
 				arrPosts.splice(i,1);
+			}
+		}
+		for(var i=0; i<arrPure.length; i++){
+			if(arrPure[i].length == "1" && arrPure[i] == "-"){
+				arrPure.splice(i,1);
 			}
 		}
 	//get requested post from url
@@ -109,7 +115,6 @@ function getPagesArray(text){
 		
 	//if user request specific page
 		if(hash !== null && hash !== ''){
-			
 		//check if post url valid
 			for(var i=0; i<arrPosts.length; i++){
 			//requested page
@@ -131,14 +136,14 @@ function getPagesArray(text){
 			//if requested url = index page
 				if(hash == "index"){
 					var post="## Index\n";
-					for(var i=0; i<arrPosts.length; i++){
-						if(arrPure[i].length == "1" && arrPure[i] == "-"){
-							arrPure.splice(i,1);
+					for(var i=0; i<arrIndex.length; i++){
+						if(arrIndex[i].length == "1" && arrIndex[i] == "-"){
+							arrIndex.splice(i,1);
 							post=post+"<br>";
 						}
 						post=post + "<a style=\"font-size:18px;\" onclick=\"location.href='#!"+ 
-						arrPosts[i] +"';refreshed()\">"+ arrPure[i].split('-').join(' ') +"</a>\n<br>";
-						//console.log(i + " " + arrPosts[i] + " " + arrPure[i]);
+						arrIndex[i] +"';refreshed()\">"+ arrIndex[i].split('-').join(' ') +"</a>\n<br>";
+						//console.log(i + " " + arrPosts[i] + " " + arrPure[i] + " " + arrIndex[i]);
 					}
 					showMarkdown(post, '#!', '#!', "PAGE");
 			//if requested url = NONE
