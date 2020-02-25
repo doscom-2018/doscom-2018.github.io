@@ -243,3 +243,6 @@
 -
 2017-03-01-4-kategori-distribusi-linux
 2017-03-04-tutorial-instalasi-spotify-di-linux
+2017-05-14-Seminar-Nasional-dan-Release-Party-Tealinuxos-9
+-
+2018-05-12-Release-Party-TeaLinuxOS-X
