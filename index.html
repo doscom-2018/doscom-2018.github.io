@@ -34,10 +34,15 @@
 			});
 		});
   </script>
-  <!-- MARKDOWN PARSER AND CORE -->
+	<!-- MARKDOWN PARSER AND CORE -->
+	<script src="./js/bloginfo.js"></script>
 	<script src="./js/fetcher.js"></script>
-	<script src="./js/core.js"></script>
-  <script src="./js/mdparser.js"></script>
+	<script src="./js/mdparser.js"></script>
+	<script src="./js/pages.js"></script>
+	<script src="./js/posts.js"></script>
+	<script src="./js/category.js"></script>
+	<script src="./js/subcategory.js"></script>
+	<script src="./js/index.js"></script>
 	<script>
 		window.onload = function mainLoader(){
 			executeXhr("./pages/index.md", getPagesArray, "PAGE-INDEX");
@@ -117,7 +122,7 @@
 		<div class="row">
 			<div class="col-sm-12 text-center">
 				<br>
-				<h4>2008 - 2020 Dinus Opensource Community</h4>
+				<h4>2008 - <script>document.write(new Date().getFullYear())</script> Dinus Opensource Community</h4>
 			</div>
 		</div>
     </div>
