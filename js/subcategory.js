@@ -1,7 +1,7 @@
 function getSubcategoryArray(){
     var text = this.responseText;
     var category = "## Category\n";
-    var Subcategory = this.arguments[1];
+    var Subcategory = this.arguments[2];
     Subcategory = Subcategory[0].toUpperCase()+Subcategory.slice(1); 
     category += "### "+Subcategory+"\n";
 	var arrPure = getArrPure(text);

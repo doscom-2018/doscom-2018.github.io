@@ -5,6 +5,7 @@ var bgTitle;
 var bgLang;
 var tOp = "Dinus Opensource Community";
 var disqus = "doscom-test";
+var copyright = "Dinus Opensource Community"
 
 function setBlogIdentifier(pIdnt, pUrl, pTitle, pLang){
 	bgIdnt = pIdnt;
@@ -23,4 +24,8 @@ function getDisqusShortname(){
 
 function enableComments(){
 	return true;
+}
+
+function getBlogCopyright(){
+	return copyright;
 }

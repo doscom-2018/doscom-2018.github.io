@@ -23,7 +23,7 @@ function getPagesArray(){
 		}else if(hash.includes("subcategory-")){
 		//show subcategory page
 			var subcat = hash.replace("subcategory-",'');
-			executeXhr("./pages/category/"+subcat+".md", getSubcategoryArray, "SUBCATEGORY", subcat);
+			executeXhr("./pages/category/"+subcat+".md", getSubcategoryArray, "SUBCATEGORY", "", subcat);
 			break;
 		}else if(hash == arrPages[i]){
 		//set shown page
@@ -46,7 +46,7 @@ function setPageMenu(arrPages, arrPure){
 			pages+= "<a class=\"text-pages-seperator\"> | </a>";
 		}
 		if(arrPages[i] == "home"){
-			pages+= "<a class=\"text-pages\" onclick=\"location.href='#!';refreshed()\">Home</a>";
+			pages+= "<a class=\"text-pages\" onclick=\"location.href='./'\">Home</a>";
 		}else{
 			pages+= "<a class=\"text-pages\" onclick=\"location.href='#!" + arrPages[i] + 
 					"';refreshed()\">" + arrPure[i].split('-').join(' ') +"</a>";

@@ -9,8 +9,6 @@
 	<link rel="stylesheet" href="./css/bootstrap.min.css"/>
 	<script src="./js/jquery.min.js"></script>
 	<script src="./js/bootstrap.min.js"></script>
-	<!-- FA -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!-- Markdown Parser -->
 	<script src="./js/showdown.min.js"></script>
 	<!-- My CSS -->
@@ -45,14 +43,9 @@
 	<script src="./js/index.js"></script>
 	<script src="./js/titleparser.js"></script>
 	<script src="./js/indexfilter.js"></script>
-	<script src="./js/homepage.js"></script>
 	<script>
 		window.onload = function mainLoader(){
-			executeXhr("./pages/index.md", setHomepageMenu, "PAGE-INDEX");
-			executeXhr("./posts/index.md", setHomepageFeaturedPost, "PAGE-INDEX");
-			executeXhr("./pages/category/index.md", getHomepageCategoryArray, "CATEGORY", "category");
-			executeXhr("./posts/index.md", getHomepageIndexArray, "POST-INDEX", "latest-post");
-			executeXhr("./pages/category/kegiatan.md", getHomepageCustomArray, "POST-INDEX", "category-post");
+			executeXhr("./pages/index.md", getPagesArray, "PAGE-INDEX");
 		}
 	</script>
 </head>
@@ -63,43 +56,25 @@
 				<div id="Pages"></div>
 			</div>
 		</div>
-		<br>
 		<div class="row">
-			<div id="featured-post"></div>
-			<div class="col-sm-4">
-				<div id="search" class="row search-container search-cat">
-					<input type="text" placeholder="Search..">
-					<button type="submit"><i class="fa fa-search"></i></button>
-				</div>
-				<div class="row search-cat">
-					<h3 class="text-page-color">Category</h3><br>
-					<div id="category"></div>
-				</div>
+			<div class="col-sm-12 img-responsive" style="background-image: url('./assets/header.jpg');\"></div>
+		</div>
+		<div class="row">
+			<div id="Posts" class="col-sm-12 myexpander">
+				<h3 class="text-center">
+				Loading Webpages. If nothing happen in 
+				few second, Consider updating your browser 
+				or change your browser to Google Chrome or Mozilla Firefox
+				</h3>
+			</div>
+			<div id="Comments" class="col-sm-12">
+				<div id="disqus_thread"></div>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-page-color">Latest Post</h3>
-				<div id="latest-post">
-					<h3 class="text-center">
-					Loading Webpages. If nothing happen in 
-					few second, Consider updating your browser 
-					or change your browser to Google Chrome or Mozilla Firefox
-					</h3>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-page-color">Kegiatan</h3>
-				<div id="category-post">
-					<h3 class="text-center">
-					Loading Webpages. If nothing happen in 
-					few second, Consider updating your browser 
-					or change your browser to Google Chrome or Mozilla Firefox
-					</h3>
-				</div>
-			</div>
+			<br>
+			<div id="BtnPrev" class="col-sm-6 text-left"></div>
+			<div id="BtnNext" class="col-sm-6 text-right"></div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12 text-center">
