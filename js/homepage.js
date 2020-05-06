@@ -61,7 +61,7 @@ function getHomepageCustomArray(){
         //console.log(i + " " + arrindex[i] + " " + arrPure[i]);
     }
     index+= "<div style=\"padding-top:2em\" class=\"col-sm-12 text-center\">" +
-            "<a style=\"font-size:medium;\" href=\"./loader.html#!subcategory-kegiatan\">Show More Like this \></a></div>";
+            "<a style=\"font-size:medium;\" href=\"./loader.html#!subcategory-technology\">Show More Like this \></a></div>";
     document.getElementById(this.arguments[1]).innerHTML = index;
     //showHomepageMarkdown("PAGE", ["#!", "#!", index], this.arguments[1]);
 }
@@ -90,15 +90,15 @@ function setHomepageMenu(){
 	var arrPages = getArrFilter(text);
 	var pages="";
 	for(var i=0; i<arrPages.length; i++){
-		if(i>0){
-			pages+= "<a class=\"text-pages-seperator\">_</a>";
-		}
+		// if(i>0){
+		// 	pages+= "<a class=\"text-pages-seperator\">_</a>";
+		// }
 		if(arrPages[i] == "home"){
 			pages+= "<a class=\"text-pages\" onclick=\"location.href='./'\">Home</a>";
 		}else{
             pages+= "<a class=\"text-pages\" " +
                     "onclick=\"location.href='./loader.html#!" + arrPages[i] + "'\">" 
-                    + arrPure[i].split('-').join(' ') +"</a>";
+                    + arrPure[i] +"</a>";
 		}
 		//console.log(i + " " + arrPages[i] + " " + arrPure[i]);
 	}

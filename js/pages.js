@@ -12,7 +12,12 @@ function getPagesArray(){
 	for(var i=0; i<arrPages.length; i++){
 	//requested page
 		setBlogIdentifier("", "", arrPure[i], "");
-		if(hash == arrPages[i] && hash == "index"){
+		if(hash.includes("search-")){
+		//show search page
+			var sKeyword = hash.replace("search-",'');
+			executeXhr("./posts/index.md", getSearchRequest, "POST-INDEX", "", sKeyword);
+			break;
+		}else if(hash == arrPages[i] && hash == "index"){
 		//show post index page
 			executeXhr("./posts/index.md", getIndexArray, "POST-INDEX");
 			break;
@@ -42,14 +47,14 @@ function getPagesArray(){
 function setPageMenu(arrPages, arrPure){
 	var pages="";
 	for(var i=0; i<arrPages.length; i++){
-		if(i>0){
-			pages+= "<a class=\"text-pages-seperator\"> | </a>";
-		}
+		// if(i>0){
+		// 	pages+= "<a class=\"text-pages-seperator\"> | </a>";
+		// }
 		if(arrPages[i] == "home"){
 			pages+= "<a class=\"text-pages\" onclick=\"location.href='./'\">Home</a>";
 		}else{
 			pages+= "<a class=\"text-pages\" onclick=\"location.href='#!" + arrPages[i] + 
-					"';refreshed()\">" + arrPure[i].split('-').join(' ') +"</a>";
+					"';refreshed()\">" + arrPure[i] +"</a>";
 		}
 		//console.log(i + " " + arrPages[i] + " " + arrPure[i]);
 	}

@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Dinus Opensource Community</title>
+	<title>Stevia Page</title>
 	<!-- Bootstrap 3 -->
 	<link rel="stylesheet" href="./css/bootstrap.min.css"/>
 	<script src="./js/jquery.min.js"></script>
@@ -19,7 +19,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Barlow" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100&display=swap" rel="stylesheet">
 	<!-- icon -->
-	<link rel="icon" href='./assets/favicon.png' type="image/x-icon"/>
+	<link rel="icon" href='./assets/spinner.gif' type="image/x-icon"/>
 	<!-- Refresher Script -->
 	<script>
 		function refreshed(){
@@ -43,6 +43,7 @@
 	<script src="./js/category.js"></script>
 	<script src="./js/subcategory.js"></script>
 	<script src="./js/index.js"></script>
+	<script src="./js/search.js"></script>
 	<script src="./js/titleparser.js"></script>
 	<script src="./js/indexfilter.js"></script>
 	<script src="./js/homepage.js"></script>
@@ -68,8 +69,8 @@
 			<div id="featured-post"></div>
 			<div class="col-sm-4">
 				<div id="search" class="row search-container search-cat">
-					<input type="text" placeholder="Search..">
-					<button type="submit"><i class="fa fa-search"></i></button>
+					<input id="iptSearch" type="text" placeholder="Search..">
+					<button type="submit" onclick="startSearch();"><i class="fa fa-search"></i></button>
 				</div>
 				<div class="row search-cat">
 					<h3 class="text-page-color">Category</h3><br>
@@ -104,7 +105,7 @@
 		<div class="row">
 			<div class="col-sm-12 text-center">
 				<br>
-				<h3>2008 - <script>document.write(new Date().getFullYear()); document.write(" " + getBlogCopyright());</script></h3>
+				<h3><script>document.write(new Date().getFullYear()); document.write(" " + getBlogCopyright());</script></h3>
 				<h4>Made with <a style="color:red">&#9829;</a> using Stevia Page</h4>
 			</div>
 		</div>
