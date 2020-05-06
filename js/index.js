@@ -12,7 +12,7 @@ function getIndexArray(){
                 "onclick=\"location.href='#!" + 
                 arrindex[i] +"';refreshed()\">" + 
                 getParsedTitle(arrPure[i]) + "</a>\n<br>";
-        //console.log(i + " " + arrindex[i] + " " + arrPure[i]);
+        // console.log(i + " " + arrindex[i] + " " + arrPure[i]);
     }
     showMarkdown("PAGE", ["#!", "#!", index]);
 }
