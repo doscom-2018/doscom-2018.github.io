@@ -15,11 +15,16 @@ This blog framework made by fusing [markdown parser](https://github.com/showdown
 ├── pages
 │   ├── your-custom-page
 │   │   └── index.md (put your page content here)
-│   ├── category
+│   ├── about
+|   │   └── index.md (about page content)
+|   ├── contact
+|   │   └── index.md (contact page content)
 |   └── index.md (page index)
 └── posts
     ├── YYYY-MM-DD-post-title-you-want-to-create
-    │   └── index.md (put your post content here)
+    │   ├── index.md (put your post content here)
+    │   ├── picture.jpg (post image)
+    │   └── document.doc (downloadable document)
     └── index.md (post index)
 ```
 
