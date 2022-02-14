@@ -18,7 +18,6 @@
 2008-11-20-indonesian-security-conference-2008
 2008-11-25-repository-lokal-ubuntu-810-menggunakan-file-iso
 2008-12-17-installasi-openofficeorg-30-pada-ubuntu
--
 2009-01-04-repository-lokal-ubuntu-810-berbasis-web-server
 2009-01-10-panduan-instalasi-linux-ubuntu-810
 2009-01-20-update-openoffice-ke-v30-pada-ubuntu
@@ -55,7 +54,6 @@
 2009-12-18-30-tunanetra-dilatih-operasikan-komputer-bicara
 2009-12-26-repositori-ubuntu-910-karmic-koala
 2009-12-28-hotspot-lokal-dinus-open-source
--
 2010-01-11-review-software-imagination-21
 2010-01-11-review-software-open-movie-editor
 2010-01-11-review-software-gkamus-03-1
@@ -105,7 +103,6 @@
 2010-12-13-migrasi-oss-pemkab-semarang
 2010-12-17-firewallmikrotik
 2010-12-17-instalasi-joomla-di-linux
--
 2011-01-04-secret-semarang-creative-technology
 2011-01-04-vgasismint10
 2011-01-23-memperbaiki-youtube-freeze
@@ -155,7 +152,6 @@
 2011-11-23-script-untuk-menginstall-firefox-9-evolution-mail-3-2-1-filezilla-ftp-client-dan-liferea-rss-reader-di-ubuntu-11-10+
 2011-12-27-mewarnai-terminal
 2011-12-28-meningkatkan-resolusi-layar-di-virtualbox
--
 2012-01-05-tint2-paneltaskbar-yang-ringan
 2012-01-16-percantik-linux-dengan-gnome-pie+
 2012-01-18-menjalankan-google-chrome-chromium-browser-sebagai-root
@@ -183,7 +179,6 @@
 2012-10-23-repo-lokal-ubuntu
 2012-10-24-elinks-browser-textmode-melalui-terminal-linux
 2012-10-28-webserverapp-for-android
--
 2013-01-13-perayaan-software-freedom-day-2012
 2013-01-31-tealinux-os-5-0-named-kukicha-tea
 2013-02-01-codecamp-2013-the-art-of-game-programming
@@ -210,7 +205,6 @@
 2013-11-08-brackets-code-editor-untuk-html-css-dan-javascript
 2013-12-21-ngoding-bareng-pake-togetherjs
 2013-12-23-cara-menginstall-blender-2-96-lastest-version-dengan-ppa+
--
 2014-01-03-install-mysql-queery-browser-di-ubuntu-12-04-atau-versi-diatasnya+
 2014-08-12-kendalikan-aplikasi-dengan-jasper
 2014-08-12-cara-memasang-skippy-xd-task-switcher-di-tealinuxos
@@ -230,19 +224,15 @@
 2014-11-11-persiapan-bootcamp-doscom-2014-level-up
 2014-12-03-ulasan-aplikasi-godot-game-engine
 2014-12-16-software-freedom-day-mozilla-maker-party-udinus-2014
--
 2015-01-08-workshop-pembuatan-game-space-radian-dengan-godot-engine
 2015-05-04-release-party-tealinuxos-7-0
 2015-05-21-pengumuman-doscom-university
 2015-06-02-tm-pod2015
 2015-07-26-kembalikan-indikator-sound-di-tealinux-7-xubuntu-14-04
 2015-11-11-persiapan-bootcamp-doscom-2015-unlock-the-achievement
--
 2016-04-22-release-party-tealinux-os-8-dan-seminar-nasional-open-source-everywhere
 2016-04-23-theme-switcher-tray-beta-testing
--
 2017-03-01-4-kategori-distribusi-linux
 2017-03-04-tutorial-instalasi-spotify-di-linux
 2017-05-14-Seminar-Nasional-dan-Release-Party-Tealinuxos-9
--
 2018-05-12-Release-Party-TeaLinuxOS-X
