@@ -8,10 +8,11 @@ This blog framework made by fusing [markdown parser](https://github.com/showdown
 ```
 .
 ├── assets
-│   ├── img-category
-│   └── img-latest
 ├── css
+├── fonts
 ├── js
+├── less
+├── scss
 ├── pages
 │   ├── your-custom-page
 │   │   └── index.md (put your page content here)
@@ -24,11 +25,12 @@ This blog framework made by fusing [markdown parser](https://github.com/showdown
     ├── YYYY-MM-DD-post-title-you-want-to-create
     │   ├── index.md (put your post content here)
     │   ├── picture.jpg (post image)
+    │   ├── thumbnail.jpg (post thumbnail)
     │   └── document.doc (downloadable document)
     └── index.md (post index)
 ```
 
-### To make new posts, do (for github users)
+### To make new posts, do (for GitHub users)
 1. Clone this git.
 2. Go to `posts` and make new directory with format (lowercase).
 ```
@@ -36,11 +38,12 @@ YYYY-MM-DD-post-title-you-want-to-create
 ```
 3. Go to directory you just made and create `index.md`.
 4. Fill `index.md` with your content using markdown &/ html format.
-5. Then open `/posts/index.md` and add directory name `(YYYY-MM-DD-post-title-you-want-to-create)` to posts index.
-6. git add, commit, dan push.
-7. if you set CI/CD, your blog will automatically updated.
+5. Create `thumbnail.jpg` file with `800 x 600` resolution.
+6. Then open `/posts/index.md` and add directory name `(YYYY-MM-DD-post-title-you-want-to-create)` to posts index.
+7. Git add, commit, and push.
+8. If you set CI/CD, your blog will automatically updated.
 
-> Make sure only using `1234567890abcdefghijklmnopqrstuvwxyz` and `-` as index seperator
+> Make sure only using `1234567890abcdefghijklmnopqrstuvwxyz` and `-` as index separator
 
 ### Pros
 * You can write in any platform as long as you have git and text editor.
@@ -51,4 +54,4 @@ YYYY-MM-DD-post-title-you-want-to-create
 * Spacing and layouting still broken sometimes but can be avoided using HTML.
 
 ### Todo
-* Add search functionality
+* ~Add search functionality~
