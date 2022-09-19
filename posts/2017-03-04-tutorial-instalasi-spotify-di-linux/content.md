@@ -1,4 +1,4 @@
-### **Tutorial Instalasi Spotify di Linux**
+#### Tutorial Instalasi Spotify di Linux
 _March 4, 2017 Wahyu Asyari M_	
 
 Spotify merupakan salah satu platform pilihan untuk mendengarkan Musik secara online yang kerap dipilih oleh sebagian orang. fitur favorit saya? pilihan track dari playlist bisa disesuaikan dengan mood suasana hati kita. Ah sedap! beberapa info Spotify bisa kalian baca pada Infografis di bawah ini.

@@ -1,5 +1,5 @@
-### **4 Kategori Distribusi Linux**
-_March 1, 2017March 2, 2017 Wahyu Asyari M_
+#### 4 Kategori Distribusi Linux
+_March 3, 2017 Wahyu Asyari M_
 
 <p align="center">
 	<img src="./posts/2017-03-01-4-kategori-distribusi-linux/beautiful-Linix-linux.png" height="250px" alt="img">

@@ -1,4 +1,4 @@
-### **SEMINAR NASIONAL DAN RELEASE PARTY TEALINUXOS 9**
+#### SEMINAR NASIONAL DAN RELEASE PARTY TEALINUXOS 9
 _May 14, 2017 Abdurahman_
 
 Ketika anda membaca artikel ini maka anda tidak akan berhenti mencari tahu tentang Doscom dan TealinuxOS, karena Doscom dengan luar biasa akan selalu berinovasi mempersembahkan pembaharuan OSnya. Ya, baru saja di release sebuah OS dengan sebuah acara pereleasan yang di balut dengan acara seminar nasional untuk TealinuxOS 9 yang bertajuk “Open Source dan Kehidupan” acara yang dihadiri oleh 200an peserta dengan pembicara yang sangat inspiratif menyambut sebuah kelahiran TealinuxOS 9 yang pada versi kali ini diberi nama Tealinux “Chamomile”.
