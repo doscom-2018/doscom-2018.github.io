@@ -1,4 +1,4 @@
-### **Theme Switcher Tray beta testing**
+#### Theme Switcher Tray beta testing
 _April 23, 2016 M. Nurul Irfan_	
 
 Halo doscomers. Sudah ngga sabar coba TeaLinuxOS8? Ada beberapa software yang akan disertakan didalamnya. Salah satunya adalah Theme Switcher Tray, sebuah aplikasi yang bisa digunakan untuk mengganti tema/tampilan di TeaLinuxOS.

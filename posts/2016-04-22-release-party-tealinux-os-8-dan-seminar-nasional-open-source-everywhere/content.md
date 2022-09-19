@@ -1,4 +1,4 @@
-### **Release Party TeaLinux OS 8 dan Seminar Nasional “Open Source Everywhere”**
+#### Release Party TeaLinux OS 8 dan Seminar Nasional “Open Source Everywhere”
 _April 22, 2016April 22, 2016 Diky Arga_
 
 <p align="center">
