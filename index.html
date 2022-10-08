@@ -6,8 +6,8 @@
     <meta name="description" content="Blog ini adalah kumpulan tulisan pengurus dan sesepuh doscom baik dulu sekarang maupun seterusnya."/>
     <meta name="keywords" content="Technology, IT, Programming, Open Source"/>
     <meta name="author" content="Dinus Opensource Community"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="google-site-verification" content="aUwn8KVXL4ji_l9a0pjPEpMsVsAfLerpViWk3Rx98tY" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <link rel="icon" href='./assets/favicon.png' type="image/x-icon"/>
     <link rel="stylesheet" href="./css/bootstrap.min.css"/>
@@ -41,7 +41,7 @@
                         <li><a href="./">Home</a></li>
                         <li><a href="./loader.html?index=all">Index</a></li>
                         <li><a href="./loader.html?pages=contact">Contact</a></li>
-                        <li><a href="/loader.html?pages=about">About</a></li>
+                        <li><a href="./loader.html?pages=about">About</a></li>
                         <li id="stevia-mobile-mode1"><a href="./loader.html?category=index">Category</a></li>
                     </ul>
                 </div>
@@ -51,7 +51,7 @@
         <div id="stevia-mobile-mode1" class="row">
             <div class="col-sm-12">
                 <div class="input-group search-container">
-                    <input id="searchInputM" type="text" class="form-control" placeholder="Search.."/>
+                    <input id="searchInputM" type="text" class="form-control" placeholder="Search.." onkeydown="searchKeypressHandler(event)"/>
                     <div class="input-group-btn">
                         <button class="btn" type="submit" onclick="startSearch();">
                             <span class="glyphicon glyphicon-search"></span>
@@ -75,7 +75,7 @@
             </div>
             <div class="col-sm-4" id="stevia-mobile-mode2">
                 <div class="input-group search-container">
-                    <input id="searchInput" type="text" class="form-control" placeholder="Search.."/>
+                    <input id="searchInput" type="text" class="form-control" placeholder="Search.." onkeydown="searchKeypressHandler(event)"/>
                     <div class="input-group-btn">
                         <button class="btn" type="submit" onclick="startSearch();">
                             <span class="glyphicon glyphicon-search"></span>
