@@ -1,1 +1,2 @@
 redirectMatch 404 /\.git
+redirectMatch 404 /docker-compose.yml
