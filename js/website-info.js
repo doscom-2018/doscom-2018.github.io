@@ -31,7 +31,7 @@ function getSiteCopyright(){
 
 function loadSiteBranding(){
 	// console.log(WebsiteName);
-	// document.getElementById('siteBranding').innerHTML = WebsiteName;
+	document.getElementById('siteBranding').innerHTML = "Blog DOSCOM";
 }
 
 function loadSiteCopyright(){
