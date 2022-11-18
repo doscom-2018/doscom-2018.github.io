@@ -19,7 +19,7 @@ services:
       - ./home/:/root
       - ./www/:/git
   web-httpd-server:
-    image: httpd:latest
+    build: .
     restart: unless-stopped
     environment:
       TZ: "Asia/Jakarta"
