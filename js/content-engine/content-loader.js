@@ -34,12 +34,3 @@ function loadContentIndex(){
     loadSiteBranding();
     loadSiteCopyright();
 }
-
-function fetchContentTitle(pageRequest1, arrIndex){
-    for(var i=0; i<arrIndex.length; i++){
-        if(arrIndex[i].toLowerCase().trim() == pageRequest1){
-            return arrIndex[i];
-        }
-    }
-    return pageRequest1;
-}
