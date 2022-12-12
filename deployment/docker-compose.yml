@@ -2,6 +2,7 @@ version: '3'
 
 services:
   web-daily-puller:
+    container_name: stevia-daily-puller
     image: alpine/git:latest
     restart: unless-stopped
     environment:
@@ -19,6 +20,7 @@ services:
       - ./home/:/root
       - ./www/:/git
   web-httpd-server:
+    container_name: stevia-httpd-server
     build: .
     restart: unless-stopped
     environment:
@@ -27,3 +29,9 @@ services:
       - "8081:80"
     volumes:
       - ./www/:/usr/local/apache2/htdocs/
+    healthcheck:
+      test: ["CMD-SHELL", "curl --fail http://localhost:80/ || exit 1"]
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
