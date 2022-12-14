@@ -3,10 +3,16 @@ _May 14, 2017 Abdurahman_
 
 Ketika anda membaca artikel ini maka anda tidak akan berhenti mencari tahu tentang Doscom dan TealinuxOS, karena Doscom dengan luar biasa akan selalu berinovasi mempersembahkan pembaharuan OSnya. Ya, baru saja di release sebuah OS dengan sebuah acara pereleasan yang di balut dengan acara seminar nasional untuk TealinuxOS 9 yang bertajuk “Open Source dan Kehidupan” acara yang dihadiri oleh 200an peserta dengan pembicara yang sangat inspiratif menyambut sebuah kelahiran TealinuxOS 9 yang pada versi kali ini diberi nama Tealinux “Chamomile”.
 
-<div align="center">
-	<img src="./posts/2017-05-14-seminar-nasional-dan-release-party-tealinuxos-9/1.jpeg" height="400px" alt="Perayaan release TeaLinuxOS 9 “Chamomile”">
-    <p>Perayaan release TeaLinuxOS 9 “Chamomile”</p>
-</div> 
+<div class="row">
+	<div class="col-sm-2"></div>
+	<div class="col-sm-8">
+		<div class="thumbnail">
+			<img class="img-responsive" src="./posts/2017-05-14-seminar-nasional-dan-release-party-tealinuxos-9/1.jpeg" alt="Perayaan release TeaLinuxOS 9 “Chamomile”">
+            <p>Perayaan release TeaLinuxOS 9 “Chamomile”</p>
+		</div>
+	</div>
+	<div class="col-sm-2"></div>
+</div>
 
 Doscom yang terus konsisten melahirkan OS tiap tahunnya selalu berinovasi menghadirkan fitur-fitur baru bagi para pengguna TealinuxOS yang terutama di tujukan bagi para pengguna yang berkecimpung di dalam dunia pemrograman. Tak kalah dengan versi-versi sebelumnya TealinuxOS 9 menampilkan sebuah _Operating System_ yang sangat mendukung kebutuhan para _programmer_ dalam melakukan pekerjannya dan pada TealinuxOS 9 ini terdapat fitur terbaru yang yaitu fitur _modularitea_. Apa itu fitur _modularitea_? fitur ini berfungsi untuk menginstall aplikasi secara _online_ tanpa perlu menggunakan terminal dalam penginstallannya. Jadi kesimpulannya TealinuxOS ini sangat tepat digunakan oleh para _programmer_ dalam mendukung dunia pendidikanya karena telah di mudahkan dengan fitur-fitur yang telah tertanam di dalamnya.
 

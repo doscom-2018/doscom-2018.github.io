@@ -1,9 +1,15 @@
 #### 4 Kategori Distribusi Linux
 _March 3, 2017 Wahyu Asyari M_
 
-<p align="center">
-	<img src="./posts/2017-03-01-4-kategori-distribusi-linux/beautiful-Linix-linux.png" height="250px" alt="img">
-</p>
+<div class="row">
+	<div class="col-sm-3"></div>
+	<div class="col-sm-6">
+		<div class="thumbnail">
+			<img class="img-responsive" src="./posts/2017-03-01-4-kategori-distribusi-linux/beautiful-Linix-linux.png" alt="img">
+		</div>
+	</div>
+	<div class="col-sm-3"></div>
+</div>
 
 Jika kamu mengunjungi situs [Distrowatch](https://distrowatch.com/), maka kamu akan melihat listing dari ratusan Distro [Linux](http://en.wikipedia.org/wiki/Linux) dari seluruh Dunia. Daftar tersebut pada tiap harinya akan bertambah, seiring dengan perkembangan Teknologi dan kebutuhan User. namun pada dasarnya dalam hirarki tersebut terdapat 4 Kategori Distribusi Linux yang sering kita Jumpai. Apa saja?
 

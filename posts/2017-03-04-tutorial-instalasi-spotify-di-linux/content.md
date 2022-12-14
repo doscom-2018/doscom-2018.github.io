@@ -3,9 +3,15 @@ _March 4, 2017 Wahyu Asyari M_
 
 Spotify merupakan salah satu platform pilihan untuk mendengarkan Musik secara online yang kerap dipilih oleh sebagian orang. fitur favorit saya? pilihan track dari playlist bisa disesuaikan dengan mood suasana hati kita. Ah sedap! beberapa info Spotify bisa kalian baca pada Infografis di bawah ini.
 
-<p align="center">
-	<img src="./posts/2017-03-04-tutorial-instalasi-spotify-di-linux/all-about-spotify-and-ecosport_527a5b85c6af0_w1500.jpg" height="400px" alt="spotify infographic">
-</p> 
+<div class="row">
+	<div class="col-sm-3"></div>
+	<div class="col-sm-6">
+		<div class="thumbnail">
+			<img class="img-responsive" src="./posts/2017-03-04-tutorial-instalasi-spotify-di-linux/all-about-spotify-and-ecosport_527a5b85c6af0_w1500.jpg" alt="spotify infographic">
+		</div>
+	</div>
+	<div class="col-sm-3"></div>
+</div>
 
 Nah bagi pengguna Linux jangan khawatir, karena Aplikasi Spotify bisa diinstal dan dimainkan dengan baik oleh debian dan turunannya. Temasuk ubuntu dan Zorin OS yang saat ini saya pakai buat aktifitas sehari-hari :mrgreen:
 

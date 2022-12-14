@@ -1,9 +1,15 @@
 #### Release Party TeaLinux OS 8 dan Seminar Nasional “Open Source Everywhere”
 _April 22, 2016April 22, 2016 Diky Arga_
 
-<p align="center">
-	<img src="./posts/2016-04-22-release-party-tealinux-os-8-dan-seminar-nasional-open-source-everywhere/poster-release-party-v-3.png" height="400px" alt="Poster Release Party TeaLinuxOS 8">
-</p> 
+<div class="row">
+	<div class="col-sm-3"></div>
+	<div class="col-sm-6">
+		<div class="thumbnail">
+			<img class="img-responsive" src="./posts/2016-04-22-release-party-tealinux-os-8-dan-seminar-nasional-open-source-everywhere/poster-release-party-v-3.png" alt="img">
+		</div>
+	</div>
+	<div class="col-sm-3"></div>
+</div>
 
 Hello World Doscomer, tidak terasa sejak di rilisnya TeaLinuxOS versi pertama “Green tea” 7 tahun yang lalu, sebentar lagi Doscom bakal merilis versi terbaru dari TeaLinuxOS, yaitu versi 8 dengan codename yang masih dirahasiakan hingga acara perilisan.
 
