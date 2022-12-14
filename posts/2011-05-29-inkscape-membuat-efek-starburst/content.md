@@ -1,4 +1,4 @@
-### Inkscape: Membuat Efek Starburst
+#### Inkscape: Membuat Efek Starburst
 _Posted by Eligio Moniz do Rego on May 29, 2011 in Download E-book, Inkscape, News, Tutorial, Ubuntu | 0 comments_	
 
 Tutorial penulis kali ini akan membahas cara sederhana menggunakan Inkscape untuk menciptakan efek Starburst seperti yang biasa dilihat pada majalah, poster, web dan lain sebagainya.

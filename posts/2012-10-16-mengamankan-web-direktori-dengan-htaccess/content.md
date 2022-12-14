@@ -1,4 +1,4 @@
-### **Mengamankan Web Direktori dengan .htaccess**
+#### Mengamankan Web Direktori dengan .htaccess
 _Posted by mazumam on Oct 16, 2012 in Tutorial, Web Server | 4 comments_
 
 Misalnya kita ingin agar direktory <http://pinguin.dinus.ac.id/awstat> tidak sembarangan orang bisa mengaksesnya. maka kita bisa menggunakan .htaccess dan .htpasswd untuk mengamankan direktory tersebut. jadi, untuk membuka direktory tersebut melalui web browser, harus memasukkan username dan password yang sudah diset menggunakan [.htpasswd](http://www.mazumam.web.id/2012/10/mengamankan-web-direktori-dengan.html)

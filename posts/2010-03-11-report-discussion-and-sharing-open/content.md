@@ -1,4 +1,4 @@
-### **[Report] Discussion and Sharing Open Source Week**
+#### [Report] Discussion and Sharing Open Source Week
 _Diposting oleh Anonim di 00.21 . Kamis, 11 Maret 2010_
 <br>
 Label: Events, FOSS Community, Tutorial

@@ -1,4 +1,4 @@
-### **Blokir Konten Pornografi Dengan DNS Nawala di Linux**
+#### Blokir Konten Pornografi Dengan DNS Nawala di Linux
 _By doscom - August 26, 2010_
 <br>
 Posted in: Internet, Networking

@@ -1,4 +1,4 @@
-### **Konfigurasi kartu jaringan pada virtual box**
+#### Konfigurasi kartu jaringan pada virtual box
 _Diposting oleh Masbudi di 17.41 . Selasa, 30 Maret 2010_
 
 

@@ -1,4 +1,4 @@
-### **Compres dan Uncompres file**
+#### Compres dan Uncompres file
 _Chaerul Umam | 12/08/2011 | 2 comments_
 
 Di linux kita sering menumpai file hasil kompresi dengan extensi tar, tar.gz,  tar.bz2  dan zip. saya akan membahas satu persatu cara compres dan uncompres/ekstrak ketiga file tersebut. karena saya yakin gak semuanya paham cara compres dan decompres file via terminal linux. :)

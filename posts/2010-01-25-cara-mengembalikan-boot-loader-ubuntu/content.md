@@ -1,4 +1,4 @@
-### **Cara Mengembalikan Boot Loader Ubuntu 9.10**
+#### Cara Mengembalikan Boot Loader Ubuntu 9.10
 _Diposting oleh Dinus Open Source Community di 13.03 . Senin, 25 Januari 2010_
 <br>
 Label: Boot Loader, Linux, Tutorial, Ubuntu

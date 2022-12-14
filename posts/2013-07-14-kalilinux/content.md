@@ -1,4 +1,4 @@
-### **Kali Linux**
+#### Kali Linux
 _Posted by scx on Jul 14, 2013_
 <br>
 in Distro, News, Operating System | 0 comments	

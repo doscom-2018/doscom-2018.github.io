@@ -1,4 +1,4 @@
-### **Setting IP Static di Fedora 15**
+#### Setting IP Static di Fedora 15
 _Posted by mazumam on Jun 13, 2012_
 <br>
 in Fedora, IP dan Subnetting, Networking, Tutorial | 0 comments	

@@ -1,4 +1,4 @@
-### **Setting Modem Ponsel CDMA Smart Haier C700 di Ubuntu**
+#### Setting Modem Ponsel CDMA Smart Haier C700 di Ubuntu
 _Jolt | 15/05/2011 | 6 comments_
 
 <div align="center">

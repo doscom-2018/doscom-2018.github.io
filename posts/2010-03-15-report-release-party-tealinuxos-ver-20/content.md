@@ -1,4 +1,4 @@
-### **[Report] Release Party TeaLinuxOS Ver 2.0 Codename : BlackTea**
+#### [Report] Release Party TeaLinuxOS Ver 2.0 Codename : BlackTea
 _Diposting oleh Anonim di 21.46 . Senin, 15 Maret 2010_
 <br>
 Label: blacktea, FOSS Community, Lain-lain, Linux, Report, Rilis, SUN, tealinuxos, Ubuntu

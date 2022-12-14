@@ -1,4 +1,4 @@
-### **Bocoran TeaLinuxOS 5.0**
+#### Bocoran TeaLinuxOS 5.0
 _By Haris Praba Aditya On 15/10/2012 · 3 Comments_
 
 <p align="center">

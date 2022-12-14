@@ -1,4 +1,4 @@
-### **Hotspot Lokal Dinus Open Source Community**
+#### Hotspot Lokal Dinus Open Source Community
 _Diposting oleh Dinus Open Source Community di 16.15 . Senin, 28 Desember 2009_
 <br>
 Label: Repository, Tutorial
@@ -12,7 +12,7 @@ Jika rekan-rekan Linuxer yang ingin mendapatkan distro Linux dan repository Ubun
 Langkah-langkahnya sebagai berikut :
 
 
-#### **MENDOWNLOAD DISTRO LINUX**
+##### MENDOWNLOAD DISTRO LINUX
 
 * Menggunakan Browser:
 
@@ -24,7 +24,7 @@ Langkah-langkahnya sebagai berikut :
     1. Koneksikan wireless Anda ke HotSpot dengan ESSID "`DOSCOM1`"
     1. Kemudian buka aplikasi FTP client ([Filezilla](http://filezilla-project.org/download.php)) dan masukkan alamat host = `ftp.doscom.net`, username = `anonymous`, password = `anonymous`, port = `21`
 
-#### **MENGGUNAKAN REPOSITORY LOKAL**
+##### MENGGUNAKAN REPOSITORY LOKAL
 
 * Synaptic Package Manager:
 
@@ -35,7 +35,7 @@ Langkah-langkahnya sebagai berikut :
     1. Pilih “`Add`”
     1. Masukkan baris dibawah ini:
         <br>
-        **Code:**
+        Code:
         ```
         deb  http://www.doscom.net/src/repository/ubuntu/ubuntu9.10/repo1  karmic main restricted
         deb  http://www.doscom.net/src/repository/ubuntu/ubuntu9.10/repo2  karmic main restricted multiverse
@@ -51,21 +51,21 @@ Langkah-langkahnya sebagai berikut :
     1. Klik “`Close`”
     1. Klik “`Reload`” pada ikon di sebelah kiri atas
     <br>
-    > **Penjelasan:**
+    > Penjelasan:
     > <http://www.doscom.net> adalah alamat Web Server lokal DOSCOM. Anda juga bisa menggunakan alamat IP `172.16.10.1` sebagai alamat penganti DNS.
 
 * Terminal
 
     1. Buka terminal lalu login sebagai root
         <br>
-        **Code:**
+        Code:
         ```
         sudo su
         ```
 
     1. Sebelumnya backup dulu source.list dan buat dengan yang baru.
         <br>
-        **Code:**
+        Code:
         ```
         mv /etc/apt/sources.list /etc/apt/source.list-backup
         touch /etc/apt/source.list
@@ -73,7 +73,7 @@ Langkah-langkahnya sebagai berikut :
 
     1. Tambahkan baris berikut di /etc/apt/sources.list
         <br>
-        **Code:**
+        Code:
         ```
         gedit /etc/apt/sources.list
 
@@ -90,9 +90,9 @@ Langkah-langkahnya sebagai berikut :
 
 Semoga berhasil kawan..!!!
 
-> **Informasi:**
+> Informasi:
 > Jaringan hotspot kami masih dalam proses pengembangan, untuk itu kami mohon kerjasamanya untuk merawat jaringan tersebut.
 Kritik dan saran bisa di alamatkan ke `sekretariat@doscom.org` atau dengan meninggalkan komentar di posting ini.
 
 
-#### **Open Your Mind Use Open Source Software**
+##### Open Your Mind Use Open Source Software

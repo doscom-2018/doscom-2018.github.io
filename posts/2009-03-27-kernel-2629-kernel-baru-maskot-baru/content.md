@@ -1,4 +1,4 @@
-### **Kernel 2.6.29; Kernel Baru, Maskot Baru**
+#### Kernel 2.6.29; Kernel Baru, Maskot Baru
 _Diposting oleh ahmadSAIFULmuhajir di 13.56 . Jumat, 27 Maret 2009_
 <br>
 Label: File System, Kernel, Linux, OCFS

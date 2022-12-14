@@ -1,4 +1,4 @@
-### **CodeCamp 2013 “-The Art Of Game Programming-”**
+#### CodeCamp 2013 “-The Art Of Game Programming-”
 _Posted by Patrick Nugros on Feb 1, 2013_
 <br>
 in Blogs, DOSCOM, Events, Slider | 0 comments

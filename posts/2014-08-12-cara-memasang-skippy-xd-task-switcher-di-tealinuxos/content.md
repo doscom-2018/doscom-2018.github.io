@@ -1,4 +1,4 @@
-### **Cara memasang Skippy-XD, Task Switcher di TeaLinuxOS**
+#### Cara memasang Skippy-XD, Task Switcher di TeaLinuxOS
 _August 12, 2014 Reza Faiz A Rahman_
 
 Skippy-XD is a program that provides Exposé-like features found on the [Mac OS X](http://en.wikipedia.org/wiki/OS_X) operating system. It is a standalone application for providing a window.

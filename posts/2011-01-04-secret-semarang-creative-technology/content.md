@@ -1,4 +1,4 @@
-### **SECRET (Semarang Creative Technology)**
+#### SECRET (Semarang Creative Technology)
 _Posted by defegacious on 04/01/2011_
 
 <p align="center">

@@ -1,5 +1,5 @@
-### Perangkat Lunak Pengolah Partisi Berbasis Open Source Software
-Diposkan oleh Eligio M. Do Rego di 10:04 . Rabu, 2008 September 10
+#### Perangkat Lunak Pengolah Partisi Berbasis Open Source Software
+_Diposkan oleh Eligio M. Do Rego di 10:04 . Rabu, 2008 September 10_
 <br>
 Label: Modul Pelatihan, Tools Partisi
 

@@ -1,4 +1,4 @@
-### **Daftar Nama Peserta Pembekalan Anggota DOSCOM**
+#### Daftar Nama Peserta Pembekalan Anggota DOSCOM
 _Diposting oleh Dinus Open Source Community di 23.38 . Selasa, 17 Maret 2009_
 
 Daftar nama-nama peserta yang lolos seleksi:

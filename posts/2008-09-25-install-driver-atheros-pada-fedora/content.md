@@ -1,4 +1,4 @@
-### **install driver atheros pada fedora 9**
+#### install driver atheros pada fedora 9
 _Diposting oleh Masbudi di 08.40 . Kamis, 25 September 2008_
 <br>
 Label: Fedora, Networking, Tutorial, Wifi

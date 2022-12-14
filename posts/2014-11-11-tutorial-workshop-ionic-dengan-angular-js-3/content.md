@@ -1,4 +1,4 @@
-### **Tutorial Workshop Ionic dengan Angular JS**
+#### Tutorial Workshop Ionic dengan Angular JS
 _November 11, 2014 - November 11, 2015 nurul anisa_
 
 <br>

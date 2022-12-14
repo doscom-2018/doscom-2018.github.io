@@ -1,4 +1,4 @@
-### **Driver Modem Haier ce682 (smartfren)**
+#### Driver Modem Haier ce682 (smartfren)
 _Posted by Reza Faiz A Rahman on Feb 29, 2012_
 <br>
 in Driver, Networking, Tools Networking, Tutorial | 2 comments	

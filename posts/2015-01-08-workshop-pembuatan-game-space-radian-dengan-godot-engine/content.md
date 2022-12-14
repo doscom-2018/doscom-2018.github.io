@@ -1,4 +1,4 @@
-### **Workshop Pembuatan Game Space Radian dengan Godot Engine**
+#### Workshop Pembuatan Game Space Radian dengan Godot Engine
 _January 8, 2015January 8, 2015 Diky Arga_
 
 <p align="center">

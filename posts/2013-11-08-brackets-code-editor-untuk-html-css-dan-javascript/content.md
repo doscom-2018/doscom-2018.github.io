@@ -1,4 +1,4 @@
-### **Brackets. Code Editor untuk HTML, CSS dan JavaScript**
+#### Brackets. Code Editor untuk HTML, CSS dan JavaScript
 _Posted by Reza Faiz A Rahman on Nov 8, 2013_
 <br>
 in Aplikasi, News, Review, Tools, Tutorial | 0 comments	

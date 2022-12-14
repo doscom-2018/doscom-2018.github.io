@@ -1,4 +1,4 @@
-### **Install GFX GRUB di Ubuntu**
+#### Install GFX GRUB di Ubuntu
 _Diposting oleh Eligio Moniz do Rego di 15.07 . Kamis, 04 September 2008_
 <br>
 Label: Boot Loader, Tutorial

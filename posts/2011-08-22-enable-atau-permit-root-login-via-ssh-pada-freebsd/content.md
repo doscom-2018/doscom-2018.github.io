@@ -1,4 +1,4 @@
-### **Enable atau Permit Root Login via SSH pada FreeBSD**
+#### Enable atau Permit Root Login via SSH pada FreeBSD
 _Chaerul Umam | 22/08/2011 | Leave your comment_
 
 Pada [freeBSD](http://www.mazumam.web.id/search/label/FreeBSD), defaultnya kita tidak diijinkan untuk login menggunakan user root melalu SSH. Jadi, saat kita mencoba meremote server yang systemnya menggunakan FreeBSD dengan user root melalui ssh, akan ditolak oleh system, seperti terlihat pada gambar diatas.

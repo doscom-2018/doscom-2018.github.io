@@ -1,4 +1,4 @@
-### **Recovery Partisi With Linux PartedMagic LiveUSB**
+#### Recovery Partisi With Linux PartedMagic LiveUSB
 _Diposting oleh Dinus Open Source Community di 15.40 . Jumat, 30 Oktober 2009_
 
 <div align="center">

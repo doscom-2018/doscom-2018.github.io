@@ -1,4 +1,4 @@
-### **E-Book: Getting Started with Ubuntu 10.04 (Lucid Lynx)**
+#### E-Book: Getting Started with Ubuntu 10.04 (Lucid Lynx)
 _Diposting oleh Eligio Moniz do Rego di 00.00 . Kamis, 05 Agustus 2010_
 <br>
 Label: ebook, Linux, Ubuntu

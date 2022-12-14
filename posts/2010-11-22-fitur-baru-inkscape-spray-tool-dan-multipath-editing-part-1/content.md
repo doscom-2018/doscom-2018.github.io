@@ -1,4 +1,4 @@
-### **Fitur Baru InkScape, Spray Tool dan Multipath Editing – Part 1**
+#### Fitur Baru InkScape, Spray Tool dan Multipath Editing – Part 1
 _Posted by masasdani on Nov 22, 2010_
 <br>
 in Blogs, Grafik, Inkscape | 5 comments	

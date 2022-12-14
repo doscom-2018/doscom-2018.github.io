@@ -1,4 +1,4 @@
-### **Menggunakan TeaLinuxOS IDE Installer tanpa DVD**
+#### Menggunakan TeaLinuxOS IDE Installer tanpa DVD
 _August 16, 2014August 16, 2014 Reza Faiz A Rahman_
 
 <p align="center">

@@ -1,4 +1,4 @@
-### **Mengakses Partisi Linux dari Windows**
+#### Mengakses Partisi Linux dari Windows
 _Diposting oleh Eligio Moniz do Rego di 10.18 . Rabu, 27 Mei 2009_
 <br>
 Label: File System, Linux, Tutorial

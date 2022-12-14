@@ -1,4 +1,4 @@
-### **Tealinux OS 5.0 Named ‘Kukicha Tea’**
+#### Tealinux OS 5.0 Named ‘Kukicha Tea’
 _Posted by Patrick Nugros on Jan 31, 2013_
 <br>
 in Blogs, News, Slider | 0 comments	

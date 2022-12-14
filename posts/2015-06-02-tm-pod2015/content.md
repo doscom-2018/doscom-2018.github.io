@@ -1,4 +1,4 @@
-### **Technical Meeting POD2015**
+#### Technical Meeting POD2015
 _June 2, 2015 Umriya Afini_	
 
 Selamat kepada temen-temen doscom yang telah lolos screening POD2015. Untuk persiapan POD kita besok tanggal 5, 6 dan 7 Juni 2015 yang di selenggarakan di Bantir Sumowono harap temen-temen membawa perlengkapan sebagai berikut:

@@ -1,4 +1,4 @@
-### **Meningkatkan Resolusi layar di VirtualBox**
+#### Meningkatkan Resolusi layar di VirtualBox
 _Unix.abud | 28/12/2011 | 2 comments_
 
 Langsung Aja ya gan.. Kemaren ane mo coba install Backtrack 5.0 di virtual box pada OS Window’s. mengapa ane pake virtual box?? karena pertama Wind0w$ ane Licensi Resmi, Kedua Ram + Proc Laptop ane sudah mumpuni untuk virtualisai (intel Core i3 & ram 4GB DDR3), dan yang ketiga semakin banyak tool yang bisa kepake, karena terkadang banyak tool hacking & security yang tidak ada di linux tapi bisa jalan diwindow$ ataupun sebaliknya bisa jalan di linux tetapi tidak bisa jalan di window$

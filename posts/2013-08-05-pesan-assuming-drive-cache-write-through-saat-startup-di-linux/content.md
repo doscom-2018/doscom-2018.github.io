@@ -1,4 +1,4 @@
-### **Pesan “Assuming drive cache: write through” Saat Startup di Linux**
+#### Pesan “Assuming drive cache: write through” Saat Startup di Linux
 _Posted by Tan138 on Aug 5, 2013_
 <br>
 in Blogs, File System, Kernel, News, TeaLinuxOS, Tutorial | 0 comments	

@@ -1,4 +1,4 @@
-### **Memperbaiki Error "Cannot mount volume" Saat Mengakses Partisi NTFS di Ubuntu**
+#### Memperbaiki Error "Cannot mount volume" Saat Mengakses Partisi NTFS di Ubuntu
 _Diposting oleh Eligio Moniz do Rego di 14.31 . Rabu, 04 Februari 2009_
 <br>
 Label: Tutorial, Ubuntu

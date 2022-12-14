@@ -1,4 +1,4 @@
-### **10 Klasifikasi Distro terbaik 2011**
+#### 10 Klasifikasi Distro terbaik 2011
 _Wahyu Asyari M | 18/06/2011 | 13 comments_
 
 Kompatibilitas hardware, kemudahan penggunaan, dukungan repositori perangkat lunak. Ketiga atribut ini mutlak harus ada dalam setiap distro linux. Hal ini menciptakan situasi yang agak unik, di mana ide-ide developer cepat menyebar. Dan sebagai hasilnya, ada puluhan distribusi update setiap bulan, ratusan setiap tahun, berlomba-lomba untuk menjadi urutan teratas di DistroWatch.com.

@@ -1,4 +1,4 @@
-### **Install LAN Card dan Wifi Toshiba L640 di Ubuntu 10.04**
+#### Install LAN Card dan Wifi Toshiba L640 di Ubuntu 10.04
 _Posted by nafis on Dec 12, 2010_
 <br>
 in Driver, News, Tutorial, Ubuntu | 3 comments	

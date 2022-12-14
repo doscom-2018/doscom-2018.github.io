@@ -1,4 +1,4 @@
-### **Fitur Baru di Inkscape 0.48 Part 2. Improved Text Editor, Connector, dan Bitmap Embedding**
+#### Fitur Baru di Inkscape 0.48 Part 2. Improved Text Editor, Connector, dan Bitmap Embedding
 _masasdani | 23/11/2010 | Leave your comment_
 
 <br>

@@ -1,4 +1,4 @@
-### **Belajar Membuat PC Router Linux**
+#### Belajar Membuat PC Router Linux
 _Diposting oleh Eligio Moniz do Rego di 21.36 . Selasa, 13 Juli 2010_
 <br>
 Label: Linux, Modul Pelatihan, Networking, Ubuntu

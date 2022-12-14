@@ -1,4 +1,4 @@
-### **Routing Statis Dengan 3 Router Pada Packet Tracer**
+#### Routing Statis Dengan 3 Router Pada Packet Tracer
 _Posted by Arief Satriana Ulfa on Apr 17, 2013_
 <br>
 in Blogs, DOSCOM, Doscom University, IP dan Subnetting, Modul Pelatihan, Networking, Review, Tutorial | 3 comments	

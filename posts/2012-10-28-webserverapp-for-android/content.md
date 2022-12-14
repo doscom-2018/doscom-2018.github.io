@@ -1,4 +1,4 @@
-### **webserver app for android**
+#### webserver app for android
 _Posted by Masbudi.Net on Oct 28, 2012 in Server, Tutorial, Web Server | 4 comments_
 
 Malem Gan, blm bisa tidur nih. iseng2 kepikiran mau bikin artikel tentang aplikasi [webserver untuk android](http://www.masbudi.net/webserver-app-for-android/). App ini cocok untuk mereka yang suka web programming gan, walaupun mungkin agak kurang nyaman koding di smartphone setidaknya bisa membantu mereka untuk dapat melihat hasil buatan mereka di smartphone berplatform android ini.

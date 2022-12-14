@@ -1,4 +1,4 @@
-### **Ngoding bareng pake TogetherJS**
+#### Ngoding bareng pake TogetherJS
 _Posted by Rizki Dwi Kelimutu on Dec 21, 2013_
 <br>
 in Blogs, Internet, Teks Editor, Tools, Tutorial | 0 comments	

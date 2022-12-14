@@ -1,5 +1,5 @@
-### Panduan Instalasi Linux Ubuntu 8.10 "Intrepid Ibex"
-Diposkan oleh Eligio M. Do Rego di 10:42 . Sabtu, 2009 Januari 10
+#### Panduan Instalasi Linux Ubuntu 8.10 "Intrepid Ibex"
+_Diposkan oleh Eligio M. Do Rego di 10:42 . Sabtu, 2009 Januari 10_
 <br>
 Label: Modul Pelatihan, Ubuntu
 

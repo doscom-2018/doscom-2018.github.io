@@ -1,4 +1,4 @@
-### **Install Oracle Java di Ubuntu**
+#### Install Oracle Java di Ubuntu
 _Posted by Ghulam Maulana on Jul 3, 2013_
 <br>
 in Java, Tutorial | 0 comments	

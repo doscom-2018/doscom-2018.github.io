@@ -1,4 +1,4 @@
-### **Memperbaiki Youtube Freeze saat Full Screen Video**
+#### Memperbaiki Youtube Freeze saat Full Screen Video
 _Posted by mazumam on Jan 23, 2011_
 <br>
 in Internet, News, Tutorial, Ubuntu | 8 comments

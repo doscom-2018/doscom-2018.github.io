@@ -1,4 +1,4 @@
-### **TeaLinuxOS 2.0 "Black Tea"**
+#### TeaLinuxOS 2.0 "Black Tea"
 _Diposting oleh Dinus Open Source Community di 13.11 . Sabtu, 17 Juli 2010_
 <br>
 Label: blacktea, Linux, Rilis, tealinuxos

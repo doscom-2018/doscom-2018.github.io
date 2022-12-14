@@ -1,4 +1,4 @@
-### **Mengamankan Boot Loader**
+#### Mengamankan Boot Loader
 _Diposting oleh Eligio Moniz do Rego di 15.00 . Kamis, 04 September 2008_
 <br>
 Label: Boot Loader, Tutorial

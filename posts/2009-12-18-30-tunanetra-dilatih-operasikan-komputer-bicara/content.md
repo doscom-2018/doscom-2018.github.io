@@ -1,4 +1,4 @@
-### **30 Tunanetra Dilatih Operasikan Komputer Bicara**
+#### 30 Tunanetra Dilatih Operasikan Komputer Bicara
 _Diposting oleh Dinus Open Source Community di 18.44 . Jumat, 18 Desember 2009_
 
 ANTARA - Sebanyak 30 penyandang tunanetra diberi pelatihan untuk mengoperasikan komputer bicara berbasis "open source" di Universitas Dian Nuswantoro (Udinus) Semarang, Minggu.

@@ -1,4 +1,4 @@
-### **Mounting Otomatis Partisi NTFS**
+#### Mounting Otomatis Partisi NTFS
 _Diposting oleh Eligio Moniz do Rego di 19.53 . Sabtu, 09 Mei 2009_
 <br>
 Label: File System, Linux, Tutorial

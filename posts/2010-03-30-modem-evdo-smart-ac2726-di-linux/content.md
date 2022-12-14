@@ -1,4 +1,4 @@
-### **Modem Evdo Smart AC2726 di Linux**
+#### Modem Evdo Smart AC2726 di Linux
 _Diposting oleh Dinus Open Source Community di 20.28 . Selasa, 30 Maret 2010_
 
 

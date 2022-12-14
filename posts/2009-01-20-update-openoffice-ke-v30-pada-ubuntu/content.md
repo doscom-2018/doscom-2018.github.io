@@ -1,4 +1,4 @@
-### **Update OpenOffice ke v3.0 pada Ubuntu 8.10**
+#### Update OpenOffice ke v3.0 pada Ubuntu 8.10
 _Diposting oleh Eligio Moniz do Rego di 10.41 . Selasa, 20 Januari 2009_
 <br>
 Label: Open Office, Tutorial, Ubuntu

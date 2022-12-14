@@ -1,4 +1,4 @@
-### **UbuCleaner**
+#### UbuCleaner
 _Diposting oleh Anonim di 22.46 . Minggu, 06 September 2009_
 <br>
 Label: Kernel, Linux, Open Office, Ubuntu

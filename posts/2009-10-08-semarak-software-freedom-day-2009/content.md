@@ -1,4 +1,4 @@
-### **Semarak Software Freedom Day 2009 - Udinus**
+#### Semarak Software Freedom Day 2009 - Udinus
 _Diposting oleh ahmadSAIFULmuhajir di 12.50 . Kamis, 08 Oktober 2009_
 
 Alhamdulillah adalah kata yang tepat untuk menggambarkan betapa saya sangat berterima kasih pada semuanya. Pada para panitia, dan para guest yang sudah bersedia meramaikan acara **[Software Freedom Day 2009 (SFD2009)](http://osum.sun.com/events/sfd2009udinus-1) – Udinus** yang berlangsung pada 6 Oktober 2009 kemarin. Acara SFD2009-Udinus yang diselenggarakan berkat kerjasama antara [OpenSource University Meetup (OSUM) Udinus Club](http://osum.sun.com/group/udinus) dan [Dinus Open Source Community (DOSCOM)](http://www.doscom.org/) ini berjalan dengan sangat baik dan meriah.

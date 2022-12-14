@@ -1,4 +1,4 @@
-### **Ubuntu 12.04 bernama ‘Precise Pangolin’**
+#### Ubuntu 12.04 bernama ‘Precise Pangolin’
 _Posted by Wahyu Asyari M on Oct 6, 2011 in Blogs, News, Ubuntu | 1 comment_
 
 Pendiri Ubuntu **Mark Shuttleworth** telah mengumumkan bahwa codename untuk Ubuntu 12,04 adalah ‘Precise Pangolin’.

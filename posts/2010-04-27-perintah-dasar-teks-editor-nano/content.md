@@ -1,4 +1,4 @@
-### **Perintah Dasar Teks Editor Nano**
+#### Perintah Dasar Teks Editor Nano
 _Diposting oleh Eligio Moniz do Rego di 18.15 . Selasa, 27 April 2010_
 <br>
 Label: Linux, Tool Teks Editor, Tutorial

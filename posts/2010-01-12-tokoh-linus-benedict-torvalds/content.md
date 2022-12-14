@@ -1,4 +1,4 @@
-### **Tokoh: Linus Benedict Torvalds**
+#### Tokoh: Linus Benedict Torvalds
 _Diposting oleh Dinus Open Source Community di 12.38 . Selasa, 12 Januari 2010_
 <br>
 Label: Tokoh

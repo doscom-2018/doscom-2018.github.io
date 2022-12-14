@@ -1,4 +1,4 @@
-### **Mencoba Firefox OS di Linux**
+#### Mencoba Firefox OS di Linux
 _Posted by Reza Faiz A Rahman on Jul 28, 2012_
 <br>
 in Aplikasi, News, Operating System, Tutorial | 2 comments	

@@ -1,4 +1,4 @@
-### **Panduan Instalasi Ubuntu 9.04 "Jaunty Jackalope"**
+#### Panduan Instalasi Ubuntu 9.04 "Jaunty Jackalope"
 _Diposting oleh Eligio Moniz do Rego di 00.13 . Senin, 04 Mei 2009_
 <br>
 Label: Modul Pelatihan, Tutorial, Ubuntu

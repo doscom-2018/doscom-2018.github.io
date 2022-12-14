@@ -1,4 +1,4 @@
-### **20 Tahun Linux**
+#### 20 Tahun Linux
 _Wahyu Asyari M | 26/08/2011 | Leave your comment_
 
 25 Agustus 1991, [Linus Torvalds](http://id.wikipedia.org/wiki/Linus_Torvalds) duduk di depan komputer untuk berbagi system yang dibuatnya kepada para pengguna Minix – a UNIX Operating System – di UseNet newsgroup ‘comp.os.minix‘.

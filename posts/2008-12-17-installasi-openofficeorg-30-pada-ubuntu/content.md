@@ -1,4 +1,4 @@
-### **Installasi OpenOffice.org 3.0 pada Ubuntu 8.10 Intrepid Ibex**
+#### Installasi OpenOffice.org 3.0 pada Ubuntu 8.10 Intrepid Ibex
 _Diposting oleh Eligio Moniz do Rego di 22.42 . Rabu, 17 Desember 2008_
 <br>
 Label: Open Office, Tutorial, Ubuntu

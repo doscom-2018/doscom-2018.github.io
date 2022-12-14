@@ -1,4 +1,4 @@
-### **Menghitung IP Subnetting dengan Ipcalc**
+#### Menghitung IP Subnetting dengan Ipcalc
 _Diposting oleh Eligio Moniz do Rego di 08.44 . Sabtu, 24 April 2010_
 <br>
 Label: Linux, Networking, tealinuxos, Tool Networking, Tutorial
@@ -30,7 +30,7 @@ Penjelasannya:
 * r : menampilkan network yang ada sesuai range ip yang dimasukkan.
 
 <br>
-#### **Latihan 1:**
+##### Latihan 1:
 Untuk mengetahui range ip address jaringan `192.168.10.0/24`, ketikkan perintah berikut:
 ```
 $ ipcalc 192.168.10.0/24
@@ -73,7 +73,7 @@ Penjelasan:
 Dari output di atas, dapat dilihat range ip address yag bisa digunakan dimulai dari 192.168.10.1 sampai 192.168.10.254, broadcast 192.168.10.255 dan jumlah host yang tersedia sebanyak 254 host.
 
 <br>
-#### **Latihan 2:**
+##### Latihan 2:
 Sebuah jaringan dengan alamat jaringan 192.168.15.0 ingin dibagi menjadi 2 subnet, dimana kedua subnet tersebut masing-masing memiliki host sebanyak 30. Untuk mendapatkan solusinya, ketikkan perintah berikut:
 ```
 $ ipcalc -bs 30 30 192.168.15.0

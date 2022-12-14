@@ -1,4 +1,4 @@
-### **Persiapan Bootcamp Doscom 2014 “Level Up”**
+#### Persiapan Bootcamp Doscom 2014 “Level Up”
 _November 11, 2014 Diky Arga_
 
 Pada bootcamp Doscom 2014 ini mengangkat tema “Level Up” yang sangat erat hubungannya dengan game, karena dalam acara ini adalah awal dari petulangan kita di Doscom sebelum kepetualangan-kepetualangan seru selanjutnya. Dalam bootcamp ini peserta atau yang disebut player dibagi kedalam beberapa kelompok, dan setiap kelompok mempunyai satu pendamping yang akan menjadi Guide dalam petualangan ini.

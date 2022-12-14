@@ -1,4 +1,4 @@
-### **Pengumuman Doscom University 2015**
+#### Pengumuman Doscom University 2015
 _May 21, 2015 June 2, 2015 nurul anisa_
 
 <p align="center">

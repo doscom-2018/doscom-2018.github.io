@@ -1,4 +1,4 @@
-### **Edit grub di ubuntu 9.10**
+#### Edit grub di ubuntu 9.10
 _Diposting oleh Mauren Fitri ID di 05.11 . Kamis, 21 Januari 2010_
 <br>
 Label: Boot Loader

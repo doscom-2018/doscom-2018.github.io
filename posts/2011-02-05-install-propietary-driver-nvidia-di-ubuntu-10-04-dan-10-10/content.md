@@ -1,4 +1,4 @@
-### **Install Propietary Driver nvidia di ubuntu 10.04 dan 10.10**
+#### Install Propietary Driver nvidia di ubuntu 10.04 dan 10.10
 _Posted by masasdani on 05/02/2011_
 
 <p align="center">

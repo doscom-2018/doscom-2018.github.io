@@ -1,4 +1,4 @@
-### **Cara Memasang Mate Desktop di TeaLinuxOS**
+#### Cara Memasang Mate Desktop di TeaLinuxOS
 _August 25, 2014 Reza Faiz A Rahman_
 
 <br>

@@ -1,4 +1,4 @@
-### **Kopdar Masak Battle Chef Astrid Arum vs Ison – Terrace Cafè**
+#### Kopdar Masak Battle Chef Astrid Arum vs Ison – Terrace Cafè
 _Posted by on Oct 11, 2011 in Blogs, DOSCOM, Events | 2 comments_
 
 Senin lalu (3 okt 2011) DOSCOM diundang oleh [@resepmini](http://twitter.com/resepmini) untuk meramaikan acara Kopdar Masak Battle Chef antara [@AkuSukaMasak](http://akusukamasak.com/) dan [@isontehaink](http://twitter.com/isontehaink) di Terrace Café di Jl. Ngesrep Timur V/26 Semarang yang disupport oleh Kecap Black Gold. Dan di acara inipun banyak sekali teman-teman dari berbagai komunitas yang hadir. Misalnya dari Loenpia, Dot-S, dan maaaasih banyak lagi. Pemilik blog [Tukang Makan](http://tukangmakan.com/), yaitu @didut pun nampak hadir malam ini. Ya iya dong, namanya juga Tukang Makan…..

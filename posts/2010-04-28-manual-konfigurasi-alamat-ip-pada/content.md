@@ -1,4 +1,4 @@
-### **Manual Konfigurasi Alamat IP Pada GNU/Linux**
+#### Manual Konfigurasi Alamat IP Pada GNU/Linux
 _Diposting oleh Eligio Moniz do Rego di 18.22 . Rabu, 28 April 2010_
 <br>
 Label: Linux, Networking, Tool Networking, Tutorial

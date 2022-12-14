@@ -1,4 +1,4 @@
-### **Mounting file image bin / cue di Linux**
+#### Mounting file image bin / cue di Linux
 _Diposting oleh Eligio Moniz do Rego di 21.21 . Jumat, 16 Juli 2010_
 <br>
 Label: blacktea, File System, Networking, Tutorial

@@ -1,4 +1,4 @@
-### **Backup dan Restore Partisi Linux dengan Partimage**
+#### Backup dan Restore Partisi Linux dengan Partimage
 _Diposting oleh Eligio Moniz do Rego di 21.44 . Rabu, 15 April 2009_
 <br>
 Label: File System, Tools Partisi, Tutorial

@@ -1,4 +1,4 @@
-### **Repository Lokal Ubuntu 8.10 Berbasis Web Server**
+#### Repository Lokal Ubuntu 8.10 Berbasis Web Server
 _Diposkan oleh Eligio M. Do Rego di 23:24 . Minggu, 2009 Januari 04_
 <br>
 Label: Repository, Tutorial, Ubuntu

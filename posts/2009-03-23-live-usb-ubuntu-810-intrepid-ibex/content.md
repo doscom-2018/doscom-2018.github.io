@@ -1,4 +1,4 @@
-### **Live USB Ubuntu 8.10 Intrepid Ibex**
+#### Live USB Ubuntu 8.10 Intrepid Ibex
 _Diposting oleh Eligio Moniz do Rego di 19.36 . Senin, 23 Maret 2009_
 <br>
 Label: Linux USB, Tutorial, Ubuntu

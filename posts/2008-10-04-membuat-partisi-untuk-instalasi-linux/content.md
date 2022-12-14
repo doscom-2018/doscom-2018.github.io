@@ -1,5 +1,5 @@
-### Membuat Partisi Untuk Instalasi Linux
-Diposkan oleh Eligio M. Do Rego di 02:32 . Sabtu, 2008 Oktober 04
+#### Membuat Partisi Untuk Instalasi Linux
+_Diposkan oleh Eligio M. Do Rego di 02:32 . Sabtu, 2008 Oktober 04_
 <br>
 Label: Tools Partisi, Tutorial
 

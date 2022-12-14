@@ -1,4 +1,4 @@
-### **TRIPLE BOOT Windows 8, Android, dan TeaLinuxOS/Ubuntu**
+#### TRIPLE BOOT Windows 8, Android, dan TeaLinuxOS/Ubuntu
 _August 19, 2014 mazumam_
 
 <p align="center">

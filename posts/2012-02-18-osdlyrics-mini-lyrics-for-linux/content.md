@@ -1,4 +1,4 @@
-### **OSDLyrics | Mini Lyrics For Linux**
+#### OSDLyrics | Mini Lyrics For Linux
 
 Posted by Azmi Analis Syuhada on Feb 18, 2012 in Multimedia, News, Player, Tutorial | 4 comments	
 

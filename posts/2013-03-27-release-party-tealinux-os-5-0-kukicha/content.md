@@ -1,4 +1,4 @@
-### **Release Party Tealinux OS 5.0 “Kukicha”**
+#### Release Party Tealinux OS 5.0 “Kukicha”
 _Posted by Patrick Nugros on Mar 27, 2013_
 <br>
 in Blogs, DOSCOM, Events, Slider | 3 comments

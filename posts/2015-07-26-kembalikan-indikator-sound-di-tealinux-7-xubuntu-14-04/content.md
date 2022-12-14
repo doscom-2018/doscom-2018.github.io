@@ -1,4 +1,4 @@
-### **Kembalikan indikator sound di TeaLinux 7 / Xubuntu 14.04**
+#### Kembalikan indikator sound di TeaLinux 7 / Xubuntu 14.04
 _July 26, 2015 M. Nurul Irfan_
 
 Beberapa waktu yang lalu ada seorang doscomer yang melaporkan bahwa indikator sound di TeaLinux 7 menghilang. Saya juga baru sadar akan hal itu setelah dia berkata demikian. Padahal indikator sound terbilang cukup penting karena biasanya kita mengontrol volume suara dari situ (selain dengan tombol keyboard) dan bisa melihat berapa persen kerasnya suara yang dihasilkan speaker.

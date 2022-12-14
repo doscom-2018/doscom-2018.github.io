@@ -1,4 +1,4 @@
-### **Membangun Hotspot Instant dengan EasyHotspot**
+#### Membangun Hotspot Instant dengan EasyHotspot
 _Posted by Eligio Moniz do Rego on Mar 28, 2013_
 <br>
 in Download E-book, E-Book, Modul Pelatihan, Tutorial | 5 comments	

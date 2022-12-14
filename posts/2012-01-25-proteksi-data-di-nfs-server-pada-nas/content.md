@@ -1,4 +1,4 @@
-### **Proteksi data di NFS Server pada NAS**
+#### Proteksi data di NFS Server pada NAS
 _Posted by Masbudi.Net on Jan 25, 2012_
 in File System, IP dan Subnetting, Review, Terminal, Tutorial, Ubuntu | 4 comments	
 

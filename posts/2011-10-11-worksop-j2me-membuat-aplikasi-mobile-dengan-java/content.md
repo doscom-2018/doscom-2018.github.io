@@ -1,4 +1,4 @@
-### **Workshop J2ME “membuat aplikasi mobile dengan java”**
+#### Workshop J2ME “membuat aplikasi mobile dengan java”
 _Posted by Wahyu Asyari M on Oct 11, 2011 in Blogs, DOSCOM, Events | 6 comments_
 
 Worksop J2ME **“membuat aplikasi mobile dengan java”**

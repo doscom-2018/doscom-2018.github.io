@@ -1,4 +1,4 @@
-### **Pojok Panda Programmer : Inkscape Introduction**
+#### Pojok Panda Programmer : Inkscape Introduction
 _October 29, 2014October 29, 2014 Ardiawan Bagus Harisa_
 
 Howdy guys! Selamat datang di Pojok Panda Programmer. Kedepan, Pojok ini bakal ngasih informasi tentang game development mulai dari aset, game design dan sebagainya. Jadi jangan lupa di follow ya.

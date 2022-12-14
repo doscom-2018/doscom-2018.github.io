@@ -1,4 +1,4 @@
-### **Anyremote untuk Remot Komputer**
+#### Anyremote untuk Remot Komputer
 _ulilupil | 25/04/2011 | 5 comments_
 
 Ingin melakukan presentasi secara singlefighter? Tapi nggak usah repot bolak balik menuju laptop untuk mengganti slide.  Pada artikel ini penulis akan sharing dengan para pembaca setia doscom.org ini khususnya pecinta open sorce software tentang bagaimana cara meremote komputer desktop kita dengan hanya menggunakan sebuah handphone. Supaya gampang handphone kita sebut saja hp (bukan merk),

@@ -1,4 +1,4 @@
-### **Release Party TeaLinuxOS 7.0**
+#### Release Party TeaLinuxOS 7.0
 _May 4, 2015 May 6, 2015 Diky Arga_
 
 Hello World Doscomer, tidak terasa sejak di rilisnya TeaLinuxOS versi pertama “Green tea” 6 tahun yang lalu, sebentar lagi Doscom bakal merilis versi terbaru dari TeaLinuxOS, yaitu versi 7 dengan codename yang masih dirahasiakan hingga acara perilisan.

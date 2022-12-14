@@ -1,4 +1,4 @@
-### **Menjalankan Google-Chrome / Chromium-browser sebagai root**
+#### Menjalankan Google-Chrome / Chromium-browser sebagai root
 _By ylpmiskrad On 18/01/2012 · 2 Comments_
 
 :) bagi pengguna Backtrack mungkin pernah mengalami seperti ini

@@ -1,4 +1,4 @@
-### **Whatsapp Client di Linux dengan Plugin Pidgin**
+#### Whatsapp Client di Linux dengan Plugin Pidgin
 _Posted by Reza Faiz A Rahman on Sep 7, 2013_
 <br>
 in DOSCOM, Internet, Terminal, Tutorial | 0 comments	

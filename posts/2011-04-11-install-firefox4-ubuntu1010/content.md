@@ -1,4 +1,4 @@
-### **Install Firefox 4 di Ubuntu 10.10**
+#### Install Firefox 4 di Ubuntu 10.10
 _Posted by Chaerul Umam on 11/04/2011_
 
 <p align="center">

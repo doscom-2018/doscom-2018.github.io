@@ -1,4 +1,4 @@
-### Driver VGA SiS untuk TeaLinux OS 2.0 BlackTea
+#### Driver VGA SiS untuk TeaLinux OS 2.0 BlackTea
 _Diposting oleh mazumam di 19.48 . Sabtu, 10 April 2010_
 <br>
 Label: blacktea, Ubuntu

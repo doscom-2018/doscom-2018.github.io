@@ -1,4 +1,4 @@
-### Mengembalikan boot loader LILO sehabis install ulang OS Windows
+#### Mengembalikan boot loader LILO sehabis install ulang OS Windows
 Diposkan oleh Dinus Open Source Community di 20:43 . Selasa, 2008 Juli 29
 <br>
 Label: Boot Loader

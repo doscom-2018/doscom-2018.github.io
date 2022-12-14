@@ -1,4 +1,4 @@
-### **Splash Image Ubuntu 9.10**
+#### Splash Image Ubuntu 9.10
 _Diposting oleh Eligio Moniz do Rego di 06.38 . Jumat, 12 Februari 2010_
 <br>
 Label: Boot Loader, Linux, Tutorial, Ubuntu

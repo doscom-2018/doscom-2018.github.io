@@ -1,4 +1,4 @@
-### **Hapus Kernel Lama Di Ubuntu**
+#### Hapus Kernel Lama Di Ubuntu
 _Posted by mazumam on Sep 28, 2011 in Kernel, Tutorial, Ubuntu | 2 comments_
 
 <p align="center">

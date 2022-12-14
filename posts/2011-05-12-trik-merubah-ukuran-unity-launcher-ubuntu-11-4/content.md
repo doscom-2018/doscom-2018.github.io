@@ -1,4 +1,4 @@
-### **Trik merubah ukuran unity launcher ubuntu 11.4**
+#### Trik merubah ukuran unity launcher ubuntu 11.4
 _Posted by airyz on 12/05/2011_
 
 Unity launcher merupakan tombol cepat untuk menjalankan aplikasi pada Ubuntu 11.4, terletak default pada kiri desktop. pada tutorial kali ini akan dijelaskan cara merubah ukuran launcher tersebut sesuai dengan keinginan. yuk dicoba :mrgreen:

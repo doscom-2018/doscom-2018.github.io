@@ -1,4 +1,4 @@
-### **Mudah Membuat file ISO dari CD/DVD dengan Terminal/Konsol**
+#### Mudah Membuat file ISO dari CD/DVD dengan Terminal/Konsol
 _Diposting oleh Eligio Moniz do Rego di 19.45 . Kamis, 14 Mei 2009_
 <br>
 Label: Fedora, File System, Tutorial, Ubuntu

@@ -1,4 +1,4 @@
-### **Sekilas Tentang Network Manager**
+#### Sekilas Tentang Network Manager
 _Posted by ebyx84 on 08/02/2011_
 
 <p align="center">

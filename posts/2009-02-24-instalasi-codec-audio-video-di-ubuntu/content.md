@@ -1,4 +1,4 @@
-### **Instalasi Codec Audio & Video di Ubuntu 8.10**
+#### Instalasi Codec Audio & Video di Ubuntu 8.10
 _Diposting oleh Eligio Moniz do Rego di 00.24 . Rabu, 25 Februari 2009_
 <br>
 Label: Multimedia Linux, Tutorial, Ubuntu

@@ -1,4 +1,4 @@
-### **Membuat Aplikasi FirefoxOS**
+#### Membuat Aplikasi FirefoxOS
 _Posted by Reza Faiz A Rahman on Jul 29, 2013_
 <br>
 in Aplikasi, FirefoxOS, News, Operating System, Tutorial | 0 comments	

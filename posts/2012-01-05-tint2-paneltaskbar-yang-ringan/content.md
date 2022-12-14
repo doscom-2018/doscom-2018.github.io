@@ -1,4 +1,4 @@
-### **“tint2″ Panel/Taskbar yang Ringan**
+#### “tint2″ Panel/Taskbar yang Ringan
 _ylpmiskrad | 05/01/2012 | 4 comments_
 
 <p align="center">

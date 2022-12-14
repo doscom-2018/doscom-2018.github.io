@@ -1,4 +1,4 @@
-### **Membuat & Membaca Kode QR Dengan QtQR**
+#### Membuat & Membaca Kode QR Dengan QtQR
 _Posted by Eligio Moniz do Rego on May 24, 2013_
 <br>
 in Tools, Tutorial | 1 comment	

@@ -1,4 +1,4 @@
-### **Sharing Printer di Ubuntu**
+#### Sharing Printer di Ubuntu
 _Posted by Patrick Nugros on Jan 21, 2012_
 <br>
 in Tutorial | 0 comments	

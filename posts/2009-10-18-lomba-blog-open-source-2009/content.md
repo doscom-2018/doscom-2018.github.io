@@ -1,4 +1,4 @@
-### **Lomba Blog Open Source 2009**
+#### Lomba Blog Open Source 2009
 _Diposting oleh Dinus Open Source Community di 18.06 . Minggu, 18 Oktober 2009_
 
 Untuk menyukseskan gerakan "Indonesia, Go Open Source! (IGOS)" dan Seminar Open Source Software (OSS) III Tahun 2009, Pusat Penelitian Informatika (P2I) - Lembaga Ilmu Pengetahuan Indonesia (LIPI) mengadakan Lomba Blog Open Source, yaitu lomba menulis sebuah artikel di blog dengan tema “open source”. Peserta lomba ini tidak dipungut biaya (gratis), dan sebaliknya disediakan hadian bagi pemenang lomba.

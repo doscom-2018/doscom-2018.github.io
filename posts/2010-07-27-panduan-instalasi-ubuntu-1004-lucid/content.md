@@ -1,4 +1,4 @@
-### **Panduan Instalasi Ubuntu 10.04 "Lucid Lynx"**
+#### Panduan Instalasi Ubuntu 10.04 "Lucid Lynx"
 _Diposting oleh Eligio Moniz do Rego di 19.12 . Selasa, 27 Juli 2010_
 <br>
 Label: ebook, Linux, Tutorial, Ubuntu

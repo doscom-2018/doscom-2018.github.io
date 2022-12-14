@@ -1,4 +1,4 @@
-### **Buku Gratis bagi yang ingin mahir Open Office**
+#### Buku Gratis bagi yang ingin mahir Open Office
 _Diposting oleh Anonim di 11.25 . Rabu, 10 Februari 2010_
 <br>
 Label: ebook, Linux, Open Office, Tutorial

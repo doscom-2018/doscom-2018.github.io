@@ -1,4 +1,4 @@
-### **eyeOS: Sistem Operasi Open Source Berbasis Web**
+#### eyeOS: Sistem Operasi Open Source Berbasis Web
 _Posted by Eligio Moniz do Rego on Nov 17, 2010_
 <br>
 in Blogs, eyeOS, News, Operating System | 0 comments	

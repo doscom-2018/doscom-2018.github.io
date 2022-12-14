@@ -1,4 +1,4 @@
-### **DOSCOM University**
+#### DOSCOM University
 _Posted by Patrick Nugros on Mar 8, 2013_
 <br>
 in Blogs, DOSCOM, Events, News | 2 comments	

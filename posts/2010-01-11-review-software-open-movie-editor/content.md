@@ -1,4 +1,4 @@
-### **Review Software: Open Movie Editor 0.0.20080102-2.2**
+#### Review Software: Open Movie Editor 0.0.20080102-2.2
 _Diposting oleh Dinus Open Source Community di 17.34 . Senin, 11 Januari 2010_
 <br>
 Label: Review Software

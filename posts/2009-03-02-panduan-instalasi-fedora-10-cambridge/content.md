@@ -1,4 +1,4 @@
-### **Panduan Instalasi Fedora 10 "Cambridge"**
+#### Panduan Instalasi Fedora 10 "Cambridge"
 _Diposkan oleh Eligio M. Do Rego di 09:04 . Senin, 2009 Maret 02_
 <br>
 Label: Fedora, Modul Pelatihan, Tutorial

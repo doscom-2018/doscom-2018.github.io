@@ -1,4 +1,4 @@
-### **Mengembalikan boot loader GRUB sehabis install ulang OS Windows**
+#### Mengembalikan boot loader GRUB sehabis install ulang OS Windows
 _Diposting oleh Dinus Open Source Community di 22.14 . Senin, 05 Mei 2008_
 <br>
 Label: Boot Loader, Tutorial

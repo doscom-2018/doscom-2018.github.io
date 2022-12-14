@@ -1,4 +1,4 @@
-### Step by Step Menginstall Linux Mint 5
+#### Step by Step Menginstall Linux Mint 5
 Diposkan oleh Dinus Open Source Community di 16:01 . Rabu, 2008 Juli 30
 <br>
 Label: Modul Pelatihan

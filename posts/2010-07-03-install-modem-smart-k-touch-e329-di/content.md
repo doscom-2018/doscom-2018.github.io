@@ -1,4 +1,4 @@
-### **Install Modem Smart [ K-Touch E329 ] di Ubuntu**
+#### Install Modem Smart [ K-Touch E329 ] di Ubuntu
 _Diposting oleh mazumam di 12.53 . Sabtu, 03 Juli 2010_
 <br>
 Label: Tutorial, Ubuntu

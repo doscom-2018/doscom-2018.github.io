@@ -1,4 +1,4 @@
-### **Intrepid Ibex Release Party**
+#### Intrepid Ibex Release Party
 _Diposting oleh Dinus Open Source Community di 23.10 . Rabu, 05 November 2008_
 <br>
 Label: Lain-lain 

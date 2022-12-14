@@ -1,4 +1,4 @@
-### **Cara Menginstall Blender 2.69 (Lastest Version) dengan PPA**
+#### Cara Menginstall Blender 2.69 (Lastest Version) dengan PPA
 _Posted by Damar Indrajati on Dec 23, 2013_
 <br>
 Blender, Grafik, Multimedia, News, Tutorial | 0 comments

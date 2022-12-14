@@ -1,4 +1,4 @@
-### **Install Nautilus Terminal di Ubuntu**
+#### Install Nautilus Terminal di Ubuntu
 _Posted by Chaerul Umam on 04/11/2010_
 
 <p align="center">

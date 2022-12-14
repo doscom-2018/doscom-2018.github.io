@@ -1,4 +1,4 @@
-### **Integrasi Google Calendar dengan Gnome Shell**
+#### Integrasi Google Calendar dengan Gnome Shell
 _By Reza Faiz A On 28/07/2012 · 4 Comments_
 
 Suka lupa sama jadwal kuliah ?, atau jadwal bayar SPP ? :D. Ini ada sedikit solusi buat yang pakai Linux :P.

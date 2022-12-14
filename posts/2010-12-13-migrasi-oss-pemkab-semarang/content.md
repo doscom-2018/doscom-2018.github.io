@@ -1,4 +1,4 @@
-### **Migrasi OSS di Pemerintah Kabupaten Semarang**
+#### Migrasi OSS di Pemerintah Kabupaten Semarang
 _Posted by Mauren Fitri I.D on Dec 13, 2010_
 <br>
 in Blogs, DOSCOM, IGOS | 3 comments

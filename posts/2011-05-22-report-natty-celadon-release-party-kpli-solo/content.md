@@ -1,4 +1,4 @@
-### **[Report] Natty & Celadon Release Party KPLI SOLO**
+#### [Report] Natty & Celadon Release Party KPLI SOLO
 _By Wahyu Asyari M On 22/05/2011 In KPLI SOLO, News With 13 Comments_
 
 rilis ubuntu 11.4

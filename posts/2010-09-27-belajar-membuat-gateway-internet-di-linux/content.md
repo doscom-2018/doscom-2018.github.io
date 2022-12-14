@@ -1,4 +1,4 @@
-### **Belajar Membuat Gateway Internet di Linux**
+#### Belajar Membuat Gateway Internet di Linux
 _Posted by doscom on 16/09/2010_
 
 <p align="center">

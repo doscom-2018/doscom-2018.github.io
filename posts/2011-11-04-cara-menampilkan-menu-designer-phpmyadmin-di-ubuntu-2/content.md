@@ -1,4 +1,4 @@
-### **Cara Menampilkan Menu Designer phpMyAdmin di Ubuntu**
+#### Cara Menampilkan Menu Designer phpMyAdmin di Ubuntu
 _Posted by rendy amdani on Nov 4, 2011 in Tutorial | 8 comments_
 
 Salam Opensource…

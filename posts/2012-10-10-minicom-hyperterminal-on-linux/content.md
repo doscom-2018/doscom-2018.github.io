@@ -1,4 +1,4 @@
-### **Minicom : Hyperterminal on Linux**
+#### Minicom : Hyperterminal on Linux
 _By Masbudi.Net On 10/10/2012 · Leave a Comment_
 
 siang agan2 semua… mau share lagi nih.. mungkin artikel ini sudah basi, tapi bagi sebagian orang mungkin sangat2 membutuhkan.

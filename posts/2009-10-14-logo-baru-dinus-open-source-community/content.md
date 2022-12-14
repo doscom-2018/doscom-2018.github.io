@@ -1,4 +1,4 @@
-### **Logo Baru Dinus Open Source Community**
+#### Logo Baru Dinus Open Source Community
 _Diposting oleh Dinus Open Source Community di 09.26 . Rabu, 14 Oktober 2009_
 <br>
 Label: Lain-lain

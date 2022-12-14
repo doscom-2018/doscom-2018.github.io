@@ -1,5 +1,5 @@
-### FOSS Community
-Diposkan oleh Dinus Open Source Community di 18:59 . Jumat, 2008 September 05
+#### FOSS Community
+_Diposkan oleh Dinus Open Source Community di 18:59 . Jumat, 2008 September 05_
 <br>
 Label: FOSS Community
 

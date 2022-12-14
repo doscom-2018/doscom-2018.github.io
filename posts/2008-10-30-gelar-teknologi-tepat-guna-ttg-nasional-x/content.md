@@ -1,5 +1,5 @@
-### Gelar Teknologi Tepat Guna (TTG) Nasional X
-Diposkan oleh Dinus Open Source Community di 12:11 . Kamis, 2008 Oktober 30
+#### Gelar Teknologi Tepat Guna (TTG) Nasional X
+_Diposkan oleh Dinus Open Source Community di 12:11 . Kamis, 2008 Oktober 30_
 <br>
 Label: Lain-lain
 

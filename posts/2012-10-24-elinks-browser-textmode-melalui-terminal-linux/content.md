@@ -1,4 +1,4 @@
-### **Elinks – browser Textmode melalui terminal linux**
+#### Elinks – browser Textmode melalui terminal linux
 _Posted by mazumam on Oct 24, 2012 in Internet, Server, Terminal, Tutorial, Ubuntu | 0 comments_
 
 yap. namanya elinks, saya biasa pake ini untuk browsing di server. kenapa coba? karena OS Linux versi server tidak mempunyai (GUI) Graphical User Interface. jadi, kalo mau berselancar di dunia maya gak bisa pake firefox, chrome, atau semacamnya :D . yah… mau tidak mau… karena server itu text mode, browsing pun juga kudu text mode. setidaknya ini cukup membantu kalau kita butuh mencari cari artikel ataupun tutorial tapi yang di depan kita gak ada komputer lain kecuali server :))

@@ -1,4 +1,4 @@
-### **Instalasi joomla di Linux**
+#### Instalasi joomla di Linux
 _Posted by ulilupil on Dec 17, 2010_
 <br>
 in Joomla, News, Tutorial | 3 comments	

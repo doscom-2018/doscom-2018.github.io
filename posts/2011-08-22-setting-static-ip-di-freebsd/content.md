@@ -1,4 +1,4 @@
-### **Setting Static IP di FreeBSD**
+#### Setting Static IP di FreeBSD
 _By mazumam On 22/08/2011 · Leave a Comment_
 
 <div align="center">

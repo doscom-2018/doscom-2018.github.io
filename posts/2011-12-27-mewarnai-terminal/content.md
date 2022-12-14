@@ -1,4 +1,4 @@
-### **Mewarnai Terminal**
+#### Mewarnai Terminal
 _Haris Praba Aditya | 27/12/2011 | 2 comments_
 
 <p align="center">

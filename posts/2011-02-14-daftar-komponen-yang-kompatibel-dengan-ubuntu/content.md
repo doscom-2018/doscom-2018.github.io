@@ -1,4 +1,4 @@
-### **Daftar komponen yang kompatibel dengan Ubuntu**
+#### Daftar komponen yang kompatibel dengan Ubuntu
 _Posted by Wahyu Asyari M on Feb 14, 2011_
 <br>
 in Blogs, News, Review, Ubuntu | 2 comments	

@@ -1,4 +1,4 @@
-### **Dinus Open Source Community**
+#### Dinus Open Source Community
 _Posted by Patrick Nugros on Feb 1, 2013_
 <br>
 in DOSCOM, Slider | 0 comments	

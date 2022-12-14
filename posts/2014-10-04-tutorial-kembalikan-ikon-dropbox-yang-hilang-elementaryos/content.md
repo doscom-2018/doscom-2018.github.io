@@ -1,4 +1,4 @@
-### **Tutorial: Kembalikan Ikon Dropbox yang Hilang (ElementaryOS)**
+#### Tutorial: Kembalikan Ikon Dropbox yang Hilang (ElementaryOS)
 _October 4, 2014 - October 4, 2014 Reza Faiz A Rahman_
 
 Pada pembaruan [Dropbox](http://dropbox.com/) yang terakhir tiba-tiba ikon Dropbox di wingpanel hilang. Padahal Dropbox tetap berjalan normal, masih bisa sinkronisasi dengan nautilus. Dilihat melalui terminalpun Dropbox berjalan dengan normal. Setelah cari tau sana sini, ternyata banyak yang mengalami hal serupa.

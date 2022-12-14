@@ -1,4 +1,4 @@
-### **Release Party Tea Linux OS 4.0 “Oolong Tea”**
+#### Release Party Tea Linux OS 4.0 “Oolong Tea”
 _Posted by Patrick Nugros on Apr 10, 2012_
 <br>
 in Blogs, DOSCOM, Events, News, TeaLinuxOS | 7 comments	

@@ -1,4 +1,4 @@
-### Pindahkan Partisi Instalasi Ke Partisi Lain
+#### Pindahkan Partisi Instalasi Ke Partisi Lain
 Diposkan oleh ahmad SAIFULmuhajir di 17:40 . Senin, 2009 Agustus 10
 <br>
 Label: File System, Linux, Tools Partisi, Tutorial

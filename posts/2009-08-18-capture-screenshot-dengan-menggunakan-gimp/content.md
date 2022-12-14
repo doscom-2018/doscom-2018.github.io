@@ -1,4 +1,4 @@
-### **Capture Screenshot Dengan Menggunakan GIMP**
+#### Capture Screenshot Dengan Menggunakan GIMP
 _Diposting oleh Eligio Moniz do Rego di 08.41 . Selasa, 18 Agustus 2009_
 <br>
 Label: Open Office, Tutorial

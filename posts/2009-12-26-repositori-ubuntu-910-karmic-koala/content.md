@@ -1,4 +1,4 @@
-### **Repository Ubuntu 9.10 Karmic Koala**
+#### Repository Ubuntu 9.10 Karmic Koala
 _Diposting oleh Dinus Open Source Community di 15.42 . Sabtu, 26 Desember 2009_
 <br>
 Label: Repository, Ubuntu

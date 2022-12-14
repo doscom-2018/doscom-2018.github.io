@@ -1,4 +1,4 @@
-### **Install Network Manager di BackTrack 5 R2**
+#### Install Network Manager di BackTrack 5 R2
 _Posted by mazumam on Jun 14, 2012_
 <br>
 in Networking, Tools Networking, Tutorial | 0 comments

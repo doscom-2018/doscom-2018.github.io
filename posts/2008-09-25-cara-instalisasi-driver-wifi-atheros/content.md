@@ -1,4 +1,4 @@
-### **Cara Instalasi Driver Wifi Atheros Pada Ubuntu**
+#### Cara Instalasi Driver Wifi Atheros Pada Ubuntu
 _Diposting oleh Masbudi di 07.27 . Kamis, 25 September 2008_
 <br>
 Label: Networking, Tutorial, Ubuntu, Wifi

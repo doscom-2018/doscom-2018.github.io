@@ -1,4 +1,4 @@
-### **Firefox 6 resmi dirilis**
+#### Firefox 6 resmi dirilis
 _Wahyu Asyari M | 17/08/2011 | 4 comments_
 
 <div align="center">

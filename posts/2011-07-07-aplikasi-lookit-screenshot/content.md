@@ -1,4 +1,4 @@
-### **Aplikasi Lookit-Screenshot**
+#### Aplikasi Lookit-Screenshot
 _By Wahyu Asyari M On 07/07/2011 In News, Screen Shoot With 1 Comment_
 
 Lookit adalah aplikasi yang memungkinkan anda untuk melakukan rekam gambar terhadap sesuatu yang ada dilayar.

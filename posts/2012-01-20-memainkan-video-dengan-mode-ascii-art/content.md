@@ -1,4 +1,4 @@
-### **Memainkan Video dengan Mode ASCII art**
+#### Memainkan Video dengan Mode ASCII art
 _Posted by Reza Faiz A Rahman on Jan 20, 2012_
 <br>
 in Codec, Desktop, Internet, Multimedia, Player, Terminal, Tutorial | 2 comments	

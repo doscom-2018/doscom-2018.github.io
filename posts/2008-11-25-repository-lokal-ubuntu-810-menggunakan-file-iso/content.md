@@ -1,4 +1,4 @@
-### **Repository Lokal Ubuntu 8.10 Menggunakan file ISO**
+#### Repository Lokal Ubuntu 8.10 Menggunakan file ISO
 _Diposting oleh Eligio Moniz do Rego di 18.17 . Selasa, 25 November 2008_
 <br>
 Label: Repository, Tutorial, Ubuntu

@@ -1,4 +1,4 @@
-### **Mudahnya Menghitung IP Address Di Linux Menggunakan IPCalc**
+#### Mudahnya Menghitung IP Address Di Linux Menggunakan IPCalc
 _Posted by Azmi Analis Syuhada on Jul 9, 2012_
 <br>
 in IP dan Subnetting, Networking, Tutorial | 4 comments	

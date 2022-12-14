@@ -1,4 +1,4 @@
-### **Instalisasi Mikrotik di Virtual BOX dan WinBox pada Wine**
+#### Instalisasi Mikrotik di Virtual BOX dan WinBox pada Wine
 _Diposting oleh Dinus Open Source Community di 09.30 . Rabu, 27 Januari 2010_
 <br>
 Label: Linux, Mikrotik, Networking, Tutorial, Ubuntu, Wine

@@ -1,4 +1,4 @@
-### **Install Nintendo Wii dan Gamecube Emulator (Dolphin-Emu) pada Ubuntu**
+#### Install Nintendo Wii dan Gamecube Emulator (Dolphin-Emu) pada Ubuntu
 _Posted by masasdani on Feb 20, 2011 in Emulator, Games, Tutorial | 2 comments_
 
 <p align="center">

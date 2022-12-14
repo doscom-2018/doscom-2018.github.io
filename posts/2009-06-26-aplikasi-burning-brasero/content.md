@@ -1,4 +1,4 @@
-### **Aplikasi Burning Brasero**
+#### Aplikasi Burning Brasero
 _Diposting oleh Eligio Moniz do Rego di 15.37 . Jumat, 26 Juni 2009_
 <br>
 Label: Linux, Tool Burning, Tutorial, Ubuntu

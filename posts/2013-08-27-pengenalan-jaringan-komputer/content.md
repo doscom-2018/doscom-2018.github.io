@@ -1,4 +1,4 @@
-### **Pengenalan Jaringan Komputer**
+#### Pengenalan Jaringan Komputer
 _Posted by Dwi Cipto on Aug 27, 2013_
 <br>
 in Blogs, DOSCOM, E-Book, IP dan Subnetting, Mikrotik, Networking, News, Tools Networking | 0 comments	

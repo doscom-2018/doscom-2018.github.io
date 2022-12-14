@@ -1,4 +1,4 @@
-### **Selamat Ulang Tahun, Linux!**
+#### Selamat Ulang Tahun, Linux!
 _August 26, 2014 Reza Faiz A Rahman_
 
 Tepat 25 Agustus kemarin, [Linux](http://en.wikipedia.org/wiki/Linux) berulang tahun yang ke-23. Berawal dari surel yang dikirim [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds) pada tahun 1991. Linux berkembang pesat sampai hari ini.

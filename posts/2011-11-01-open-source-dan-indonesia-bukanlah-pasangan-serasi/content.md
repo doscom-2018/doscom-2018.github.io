@@ -1,4 +1,4 @@
-### **Open source dan Indonesia? Bukanlah Pasangan Serasi**
+#### Open source dan Indonesia? Bukanlah Pasangan Serasi
 _Posted by Xsh on Nov 1, 2011 in Blogs, Opini | 9 comments_
 
 <div align="center">

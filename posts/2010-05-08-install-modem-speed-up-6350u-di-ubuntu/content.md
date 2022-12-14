@@ -1,4 +1,4 @@
-### **Install Modem SPEED UP 6350U di UBUNTU**
+#### Install Modem SPEED UP 6350U di UBUNTU
 _Diposting oleh mazumam di 22.59 . Sabtu, 08 Mei 2010_
 <br>
 Label: Tutorial

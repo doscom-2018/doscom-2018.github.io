@@ -1,4 +1,4 @@
-### **ZiK – Alternatif pemutar audio di linux**
+#### ZiK – Alternatif pemutar audio di linux
 _By Wahyu Asyari M On 14/05/2011 In News, Player With 1 Comment_
 
 ZiK adalah audio player berbasis gstreamer. aplikasi ini mengubah format audio anda ke dalam perpustakaan musik. file audio akan ditampilkan pada panel sebelah kiri untuk mempermudah pencarian. pada panel sebelah kanan adalah untuk pengaturan playlist. ZiK menggunakan tema GTK, bisa memutar semua format yang didukung oleh gstreamer, CD, dan radio online. menarik bukan? ;)

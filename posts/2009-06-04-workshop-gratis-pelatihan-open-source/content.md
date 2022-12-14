@@ -1,4 +1,4 @@
-### **Workshop gratis "Pelatihan Open Source Software"**
+#### Workshop gratis "Pelatihan Open Source Software"
 _Diposting oleh Dinus Open Source Community di 12.49 . Kamis, 04 Juni 2009_
 
 <div align="center">
@@ -8,7 +8,7 @@ _Diposting oleh Dinus Open Source Community di 12.49 . Kamis, 04 Juni 2009_
 Tim IGOS Kementerian Negara Riset dan Teknologi bekerjasama dengan Universitas Dian Nuswantoro Semarang akan Menyelenggarakan Workshop gratis "Pelatihan Open Source Software" di UDINUS-Semarang tanggal 12 - 13 Juni 2009.
 
 
-#### **Prosedur Pendaftaran**
+##### Prosedur Pendaftaran
 
 1. Informasi dari internet (web/ milist), undangan dan atau media lainnya
 
@@ -26,7 +26,7 @@ Tim IGOS Kementerian Negara Riset dan Teknologi bekerjasama dengan Universitas D
 
 ----------------------------------------------------------------------------------
 
-#### **Fasilitas :**
+##### Fasilitas :
 
 - Modul pelatihan (dapat diberikan softcopy modul pelatihan)
 
@@ -40,12 +40,12 @@ Tim IGOS Kementerian Negara Riset dan Teknologi bekerjasama dengan Universitas D
 
 ---------------------------------------------------------------------------------
 
-#### **Materi Pelatihan Linux :**
+##### Materi Pelatihan Linux :
 
-##### **Deskripsi**
+###### Deskripsi
 Training ini memberikan pemahaman, pengoperasian linux dasar dan penggunaan aplikasi OpenOffice berbasis Linux IGOS Nusantara 2008. Pembahasan dimulai dari pengantar, pemahaman open source software, konsep dasar linux & metode instalasi sampai dengan pengoperasian linux itu sendiri. Disamping itu juga akan diajarkan penggunaan aplikasi office OpenOffice Writer, Calc dan Impress
 
-##### **Course Objective**
+###### Course Objective
 1. Memahami konsep piranti lunak open source software
 
 1. Mampu mengoperasikan Linux dasar seperti : instalasi Linux, pengoperasian dasar linux, perintah dasar linux, memahami struktur file/direktori Linux, melakukan instalasi dan serta mampu melakukan pengarsipan.
@@ -54,7 +54,7 @@ Training ini memberikan pemahaman, pengoperasian linux dasar dan penggunaan apli
 
 1. Memahami dan dapat menggunakan aplikasi internet seperti browser dan email di Linux
 
-##### **Prasyarat**
+###### Prasyarat
 
 1. Dapat mengoperasikan komputer
 
@@ -65,7 +65,7 @@ Training ini memberikan pemahaman, pengoperasian linux dasar dan penggunaan apli
 1. Memahami aplikasi office lainnya misalnya Microsoft Office
 
 
-#### **Outline Materi :**
+##### Outline Materi :
 
 * Linux Fundamental
     1. Pengantar OSS

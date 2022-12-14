@@ -1,4 +1,4 @@
-### **Cheat, Aplikasi untuk Belajar Perintah Dasar Linux**
+#### Cheat, Aplikasi untuk Belajar Perintah Dasar Linux
 _August 13, 2014 - August 12, 2014 Reza Faiz A Rahman_	
 
 <p align="center">

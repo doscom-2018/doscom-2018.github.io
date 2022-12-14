@@ -1,4 +1,4 @@
-### **Mengecek partisi dan sisa hard drive pada server**
+#### Mengecek partisi dan sisa hard drive pada server
 _August 25, 2014 Ghulam Maulana_
 
 <p align="center">

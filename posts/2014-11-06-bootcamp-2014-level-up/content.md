@@ -1,4 +1,4 @@
-### **BOOTCAMP 2014 [Level Up]**
+#### BOOTCAMP 2014 [Level Up]
 _November 6, 2014 - November 6, 2014 Umriya Afini_
 
 <p align="center">

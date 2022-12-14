@@ -1,4 +1,4 @@
-### **Driver Smart AC2726 di Linux**
+#### Driver Smart AC2726 di Linux
 _Ditulis oleh doscom pada September 27, 2010_
 
 <p align="center">

@@ -1,4 +1,4 @@
-### **Driver VGA SiS Linux Mint 10 (Julia)**
+#### Driver VGA SiS Linux Mint 10 (Julia)
 _Posted by mazumam on Jan 4, 2011_
 <br>
 in Driver, LinuxMint, News, Tutorial | 2 comments	

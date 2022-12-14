@@ -1,4 +1,4 @@
-### **[Report] Diskusi & Sharing dengan Ficos UNS, IGOS Center Solo, dan KPLI Solo**
+#### [Report] Diskusi & Sharing dengan Ficos UNS, IGOS Center Solo, dan KPLI Solo
 _Mauren Fitri I.D | 01/06/2011 | 9 comments_
 
 Tanggal 28 Mei 2011, kami mendapatkan udangan dari @mashendri untuk berdiskusi tentang perkembangan dunia Free / Open Source Software (FOSS) di Solo. Pukul 07.00 kami serombongan berangkat menuju kota Solo mengendari sebuah mobil, agak siang memang. Selain macet, kami juga sedikit nyasar menuju TKP, sehingga baru 4 jam kemudian kami baru tiba di Kampus FKIP UNS dan melewatkan kunjungan ke kantor pemerintahan Sukoharo yang sedang melakukan migrasi FOSS dikarenakan kantor pemerintahan Sukoharjo sudah tutup pada saat kamu tiba.

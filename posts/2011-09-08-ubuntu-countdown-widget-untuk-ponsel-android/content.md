@@ -1,4 +1,4 @@
-### **Ubuntu Countdown Widget untuk ponsel Android**
+#### Ubuntu Countdown Widget untuk ponsel Android
 _Wahyu Asyari M | 08/09/2011 | Leave your comment_
 
 Berapa hari yang tersisa sampai rilis Ubuntu 11.10 (Oneiric Ocelot) ?

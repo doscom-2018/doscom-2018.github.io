@@ -1,4 +1,4 @@
-### **Capture Screenshot Dengan Menggunakan GIMP**
+#### Capture Screenshot Dengan Menggunakan GIMP
 _Diposting oleh Eligio Moniz do Rego di 14.35 . Rabu, 20 Januari 2010_
 <br>
 Label: Gimp, Tool Screenshot, Tutorial

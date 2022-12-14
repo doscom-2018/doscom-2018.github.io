@@ -1,5 +1,5 @@
-### Workshop gratis "Pelatihan Open Source Software"
-Diposkan oleh Dinus Open Source Community di 10:08 . Jumat, 2008 Oktober 10
+#### Workshop gratis "Pelatihan Open Source Software"
+_Diposkan oleh Dinus Open Source Community di 10:08 . Jumat, 2008 Oktober 10_
 <br>
 Label: Lain-lain
 

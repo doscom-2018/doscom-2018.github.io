@@ -1,4 +1,4 @@
-### **Driver VGA [SiS] 771/671 ubuntu 10.10**
+#### Driver VGA [SiS] 771/671 ubuntu 10.10
 _raditya | 22/11/2011 | 3 comments_
 
 Begitu sulitnya bagi yang memiliki notebook dengan hardware berdriver Sis, disamping driver video cardnya sulit d cari dan juga gambarnya begitu besar jika telah terinstall.

@@ -1,4 +1,4 @@
-### **Hotot – Aplikasi twitter client populer untuk Linux anda**
+#### Hotot – Aplikasi twitter client populer untuk Linux anda
 _Wahyu Asyari M | 21/03/2011 | 4 comments_
 
 <p align="center">

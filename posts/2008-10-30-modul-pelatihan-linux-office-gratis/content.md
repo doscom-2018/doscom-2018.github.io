@@ -1,5 +1,5 @@
-### Modul Pelatihan Linux Office gratis
-Diposkan oleh Dinus Open Source Community di 12:46 . Kamis, 2008 Oktober 30
+#### Modul Pelatihan Linux Office gratis
+_Diposkan oleh Dinus Open Source Community di 12:46 . Kamis, 2008 Oktober 30_
 <br>
 Label: Modul Pelatihan, Tutorial
 

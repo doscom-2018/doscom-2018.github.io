@@ -1,4 +1,4 @@
-### **Menampilkan Icon di Desktop Ubuntu**
+#### Menampilkan Icon di Desktop Ubuntu
 _Diposkan oleh Eligio M. Do Rego di 15:44 . Minggu, 2009 Februari 08_
 <br>
 Label: Tutorial, Ubuntu

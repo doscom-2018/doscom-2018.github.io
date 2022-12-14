@@ -1,4 +1,4 @@
-### **Perayaan Software Freedom Day 2012**
+#### Perayaan Software Freedom Day 2012
 _Posted by Suryo Adikusumo on Jan 13, 2013_
 <br>
 in Blogs, Events, News, Slider | 0 comments	

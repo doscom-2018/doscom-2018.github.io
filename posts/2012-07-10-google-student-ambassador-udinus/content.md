@@ -1,4 +1,4 @@
-### **Google Student Ambassador UDINUS**
+#### Google Student Ambassador UDINUS
 _By Chaerul Umam On 10/07/2012 · 1 Comment_
 
 <p align="center">

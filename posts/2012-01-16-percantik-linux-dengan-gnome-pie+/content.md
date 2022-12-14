@@ -1,4 +1,4 @@
-### **Percantik Linux dengan Gnome-Pie**
+#### Percantik Linux dengan Gnome-Pie
 _patrick | 16/01/2012 | 7 comments_
 
 <p align="center">

@@ -1,4 +1,4 @@
-### **Pendiri DOSCOM Meraih Penghargaan IOSA 2012**
+#### Pendiri DOSCOM Meraih Penghargaan IOSA 2012
 _Posted by mazumam on Jul 13, 2012_
 <br>
 in Blogs, DOSCOM, News, Slider, Tokoh | 2 comments	

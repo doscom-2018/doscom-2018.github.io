@@ -1,4 +1,4 @@
-### **E-Book: The Official Ubuntu Book, 5th Edition**
+#### E-Book: The Official Ubuntu Book, 5th Edition
 _Diposting oleh Eligio Moniz do Rego di 00.14 . Kamis, 29 Juli 2010_
 <br>
 Label: ebook, Tutorial, Ubuntu

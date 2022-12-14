@@ -1,4 +1,4 @@
-### **Dari Semarang untuk Merapi**
+#### Dari Semarang untuk Merapi
 _By defegacious On 04/11/2010 In DOSCOM_
 <br>
 With 2 Comments Permanent Link to Dari Semarang untuk Merapi

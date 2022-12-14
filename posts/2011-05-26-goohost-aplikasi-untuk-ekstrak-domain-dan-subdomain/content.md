@@ -1,4 +1,4 @@
-### **Goohost, Aplikasi untuk Ekstrak Domain dan Subdomain**
+#### Goohost, Aplikasi untuk Ekstrak Domain dan Subdomain
 _Posted by bebekgoreng on 26/05/2011_
 
 **Goohost**, adalah sebuah shell script sederhana yang ditulis oleh Watakushi untuk mengekstrak host / subdomain, ip dan email untuk domain tertentu dengan pencarian Google. Oke, pertama siapkan dulu alat dan bahannya ya,

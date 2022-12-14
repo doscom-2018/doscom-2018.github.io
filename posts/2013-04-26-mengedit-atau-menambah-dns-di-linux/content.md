@@ -1,4 +1,4 @@
-### **Mengedit atau menambah DNS di Linux**
+#### Mengedit atau menambah DNS di Linux
 _Posted by Arief Satriana Ulfa on Apr 26, 2013_
 <br>
 in Networking | 0 comments	

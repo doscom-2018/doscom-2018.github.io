@@ -1,4 +1,4 @@
-### **Blankonf 3 – Semarang**
+#### Blankonf 3 – Semarang
 _By Wahyu Asyari M On 08/07/2011 In Events, News With No Comments_
 
 Konferensi ini akan membicarakan tentang perkembangan BlankOn Linux, meliputi hasil yang telah dicapai, serta target yang akan dicapai di masa mendatang. akan diadakan pada tanggal 23- 24 Juli 2011 bertempat di Universitas Dian Nuswantoro Semarang.

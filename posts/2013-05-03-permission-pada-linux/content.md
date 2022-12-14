@@ -1,4 +1,4 @@
-### **Pengaturan Permission Pada System Linux**
+#### Pengaturan Permission Pada System Linux
 _Posted by Haris Praba Aditya on May 3, 2013_
 <br>
 in Operating System, Tutorial | 0 comments	

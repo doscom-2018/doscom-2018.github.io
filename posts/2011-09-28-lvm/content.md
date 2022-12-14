@@ -1,4 +1,4 @@
-### **Manage Partisi LVM di Linux**
+#### Manage Partisi LVM di Linux
 _Posted by mazumam on Sep 28, 2011 in Partisi, Tools, Tutorial, Ubuntu | 3 comments_
 
 Saya akan coba menulis langkah-langkah men-setup [LVM](http://en.wikipedia.org/wiki/Logical_Volume_Manager_%28Linux%29) (Logical Volume Manager) pada Ubuntu 10.10 Maverick Meerkat. [LVM](http://www.mazumam.web.id/2011/09/manage-lvm-di-linux-ubuntu.html) ini saya gunakan untuk membuat Shared File Server di SAN (Storage Area Network)

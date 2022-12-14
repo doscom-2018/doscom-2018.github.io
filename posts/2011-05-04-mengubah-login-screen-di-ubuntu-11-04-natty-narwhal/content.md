@@ -1,4 +1,4 @@
-### **Mengubah Login Screen di Ubuntu 11.04 “Natty Narwhal”**
+#### Mengubah Login Screen di Ubuntu 11.04 “Natty Narwhal”
 _Wahyu Asyari M | 04/05/2011 | 8 comments_
 
 Beberapa hari lalu. Ubuntu, Distro Linux yang paling populer digunakan didunia merilis OS terbaru mereka yakni Ubuntu 11.04 yang mempunyai Codename “Natty Narwhal” dengan menggunakan [Unity](http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) sebagai desktop environmentnya.

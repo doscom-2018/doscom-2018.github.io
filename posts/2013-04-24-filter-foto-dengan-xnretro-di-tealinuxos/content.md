@@ -1,4 +1,4 @@
-### **Filter Foto dengan XnRetro di TeaLinuxOs**
+#### Filter Foto dengan XnRetro di TeaLinuxOs
 _Posted by Reza Faiz A Rahman on Apr 24, 2013_
 <br>
 in Desktop, News, Review, Screen Shoot, TeaLinuxOS, Tutorial | 2 comments	

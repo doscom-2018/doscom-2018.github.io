@@ -1,4 +1,4 @@
-### Membuat Splash Image di menu GRUB Menggunakan GIMP
+#### Membuat Splash Image di menu GRUB Menggunakan GIMP
 _Diposting oleh Eligio Moniz do Rego di 15.04 . Kamis, 04 September 2008_
 <br>
 Label: Boot Loader, Tutorial

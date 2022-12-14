@@ -1,4 +1,4 @@
-### **Software Freedom Day & Mozilla Maker Party UDINUS 2014**
+#### Software Freedom Day & Mozilla Maker Party UDINUS 2014
 _December 16, 2014January 8, 2015 Diky Arga_
 
 <p align="center">

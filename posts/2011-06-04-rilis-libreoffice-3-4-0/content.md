@@ -1,4 +1,4 @@
-### **Rilis LibreOffice 3.4.0**
+#### Rilis LibreOffice 3.4.0
 _Posted by Wahyu Asyari M on Jun 4, 2011 in Blogs, Libre Office, News | 5 comments_
 
 <div align="center">

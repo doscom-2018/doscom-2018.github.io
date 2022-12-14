@@ -1,4 +1,4 @@
-### **Review Software: gKamus 0.3-1**
+#### Review Software: gKamus 0.3-1
 _Diposting oleh Dinus Open Source Community di 06.00 . Selasa, 12 Januari 2010_
 <br>
 Label: Review Software

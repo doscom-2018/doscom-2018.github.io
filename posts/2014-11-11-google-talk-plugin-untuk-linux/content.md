@@ -1,4 +1,4 @@
-### **Google Talk Plugin untuk Linux**
+#### Google Talk Plugin untuk Linux
 _November 11, 2014 - November 11, 2015 nurul anisa_
 
 Kamu lagi **LDR** kah? _Long Distance Relationship_ maksudnyaa, hehehee. Ada solusi ni buat _keep in touch_ sama si doi. Tapi enggak secara langsung, tenang ada teknologi. Kita bisa chatting, kepoin, dan yang paling greget **Video Call**.

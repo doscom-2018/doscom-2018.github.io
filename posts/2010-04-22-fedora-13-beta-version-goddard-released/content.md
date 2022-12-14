@@ -1,4 +1,4 @@
-### **Fedora 13 Beta Version ‘Goddard’ Released**
+#### Fedora 13 Beta Version ‘Goddard’ Released
 _Diposting oleh Dinus Open Source Community di 21.37 . Kamis, 22 April 2010_
 <br>
 Label: Linux, OS

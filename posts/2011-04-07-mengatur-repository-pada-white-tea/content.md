@@ -1,4 +1,4 @@
-### **Mengatur Repository pada White Tea**
+#### Mengatur Repository pada White Tea
 _Mauren Fitri I.D | 07/04/2011 | 1 comment_
 
 Nah, karena sementara ini TeaLinuxOS masih belum punya repository sendiri maka dari itu kita numpang dulu ya pakai punya ubuntu. Dan karena repositorynya belum bisa dirubah melalui synaptic, kita pakai cara manual dulu ya.. :)

@@ -1,4 +1,4 @@
-### **Repo Lokal Ubuntu**
+#### Repo Lokal Ubuntu
 _Posted by Masbudi.Net on Oct 23, 2012 in Distro, Repository, Tutorial, Ubuntu | 0 comments_
 
 Sebenarnya Artikel2 semacam ini sudah banyak termasuk di archieve doscom.org, hanya saja yang ingin saya coba share disini, ketika kita menggunakan DVD repo lebih dari 8 buah, karena yang [masbudi](http://masbudi.net/) gunakan disini menggunakan Ubuntu 12.04 LTS yang memiliki DVD Repository sebanyak 11 buah ukuran file berkisa 43GB. mantebs kan gan..

@@ -1,4 +1,4 @@
-### **Persiapan Bootcamp Doscom 2015 “Unlock the Achievement”**
+#### Persiapan Bootcamp Doscom 2015 “Unlock the Achievement”
 _November 11, 2015November 11, 2015 Diky Arga_
 
 Pada Bootcamp Doscom 2015 ini mengangkat tema “Unlock the Achievement” yang berarti membuka pencapaian, jadi selain mengenal Doscom dan Open Source lebih dalam dengan cara yang have fun disini kita juga menekankan arti sebuah pencapaian untuk mengarungi petualangan-petualang selanjutnya di Doscom. Dalam petualangan ini, dibagi menjadi 8 kelompok, setiap kelompok mempunyai seorang pendamping yang akan menjadi Guide dalam petualangan ini :

@@ -1,4 +1,4 @@
-### **Tokoh: Richard Matthew Stallman**
+#### Tokoh: Richard Matthew Stallman
 _Diposting oleh Dinus Open Source Community di 19.00 . Minggu, 14 Februari 2010_
 <br>
 Label: Tokoh

@@ -1,4 +1,4 @@
-### **Kendalikan Aplikasi dengan Jasper**
+#### Kendalikan Aplikasi dengan Jasper
 _August 12, 2014August 12, 2014 Reza Faiz A Rahman_
 
 <p align="center">
