@@ -30,6 +30,7 @@ RedirectMatch 404 /deployment
   BrowserMatch ^Mozilla/4\.0[678] no-gzip
   BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 </IfModule>
+
 <IfModule mod_gzip.c>
   mod_gzip_on Yes
   mod_gzip_dechunk Yes
@@ -41,6 +42,11 @@ RedirectMatch 404 /deployment
   mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 </IfModule>
 
+<IfModule mod_mime.c>
+  AddType application/font-woff woff
+  AddType application/font-woff2 woff2
+</IfModule>
+
 # Leverage Browser Caching
 <IfModule mod_expires.c>
   ExpiresActive On
@@ -48,20 +54,21 @@ RedirectMatch 404 /deployment
   ExpiresByType text/html "access 24 hours"
   ExpiresByType text/x-javascript "access 24 hours"
   ExpiresByType text/xml "access 24 hours"
+  ExpiresByType application/font-woff "access plus 1 month" 
+  ExpiresByType application/font-woff2 "access plus 1 month"
+  ExpiresByType image/x-icon "access 1 month"
   ExpiresByType image/jpg "access 1 month"
   ExpiresByType image/jpeg "access 1 month"
   ExpiresByType image/gif "access 1 month"
   ExpiresByType image/png "access 1 month"
   ExpiresByType application/pdf "access 1 month"
-  ExpiresByType application/x-shockwave-flash "access 1 month"
-  ExpiresByType image/x-icon "access 1 month"
   ExpiresDefault "access 1 month"
 </IfModule>
 <IfModule mod_headers.c>
   <filesmatch "\.(html|htm|js|css|md|xml)$">
     Header set Cache-Control "max-age=7200, private, must-revalidate"
   </filesmatch>
-  <filesmatch "\.(ico|flv|jpg|jpeg|png|gif|swf|pdf)$">
-    Header set Cache-Control "max-age=2678400, public"
+  <filesmatch "\.(ico|woff|woff2|jpg|jpeg|png|gif|pdf)$">
+    Header set Cache-Control "max-age=31536000, public"
   </filesmatch>
 </IfModule>
