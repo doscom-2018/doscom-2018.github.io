@@ -47,6 +47,7 @@ RedirectMatch 404 /deployment
   ExpiresByType text/css "access 24 hours"
   ExpiresByType text/html "access 24 hours"
   ExpiresByType text/x-javascript "access 24 hours"
+  ExpiresByType text/xml "access 24 hours"
   ExpiresByType image/jpg "access 1 month"
   ExpiresByType image/jpeg "access 1 month"
   ExpiresByType image/gif "access 1 month"
@@ -57,10 +58,10 @@ RedirectMatch 404 /deployment
   ExpiresDefault "access 1 month"
 </IfModule>
 <IfModule mod_headers.c>
-  <filesmatch "\.(html|htm|js|css)$">
-  Header set Cache-Control "max-age=7200, private, must-revalidate"
+  <filesmatch "\.(html|htm|js|css|md|xml)$">
+    Header set Cache-Control "max-age=7200, private, must-revalidate"
   </filesmatch>
   <filesmatch "\.(ico|flv|jpg|jpeg|png|gif|swf|pdf)$">
-  Header set Cache-Control "max-age=2678400, public"
+    Header set Cache-Control "max-age=2678400, public"
   </filesmatch>
 </IfModule>
