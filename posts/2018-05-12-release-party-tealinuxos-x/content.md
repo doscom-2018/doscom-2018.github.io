@@ -6,28 +6,28 @@ Release Party TealinuxOS merupakan kegiatan dimana DOSCOM merayakan peluncuran p
 <div class="row">
 	<div class="col-sm-2"></div>
 	<div class="col-sm-8">
-		<div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/5.jpg" alt="Perayaan release TeaLinuxOS X">
+		<div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/5.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
         <br>
-        <div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/6.jpg" alt="Perayaan release TeaLinuxOS X">
+        <div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/6.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
         <br>
-        <div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/3.jpg" alt="Perayaan release TeaLinuxOS X">
+        <div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/3.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
         <br>
-        <div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/4.jpg" alt="Perayaan release TeaLinuxOS X">
+        <div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/4.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
         <br>
-        <div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/2.jpg" alt="Perayaan release TeaLinuxOS X">
+        <div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/2.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
         <br>
-        <div class="thumbnail">
-			<img class="img-responsive" src="./posts/2018-05-12-release-party-tealinuxos-x/1.jpg" alt="Perayaan release TeaLinuxOS X">
+        <div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2018-05-12-release-party-tealinuxos-x/1.jpg" alt="Perayaan release TeaLinuxOS X">
 		</div>
 	</div>
 	<div class="col-sm-2"></div>

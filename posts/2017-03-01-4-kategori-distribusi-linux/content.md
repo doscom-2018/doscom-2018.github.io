@@ -4,8 +4,8 @@ _March 3, 2017 Wahyu Asyari M_
 <div class="row">
 	<div class="col-sm-3"></div>
 	<div class="col-sm-6">
-		<div class="thumbnail">
-			<img class="img-responsive" src="./posts/2017-03-01-4-kategori-distribusi-linux/beautiful-Linix-linux.png" alt="img">
+		<div class="img-thumbnail">
+			<img class="img-fluid" src="./posts/2017-03-01-4-kategori-distribusi-linux/beautiful-Linix-linux.png" alt="img">
 		</div>
 	</div>
 	<div class="col-sm-3"></div>
