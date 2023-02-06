@@ -9,7 +9,7 @@ var enableDisqus = true;
 function setSiteIdentifier(pageIdentifier, pageUrl, pageTitle, pageLang){
 	disqusID = pageIdentifier;
 	disqusUrl = pageUrl;
-	disqusTitle = WebsiteName + " - " + pageTitle;
+	disqusTitle = pageTitle + " - " + WebsiteName;
 	disqusLang = pageLang;
 }
 
@@ -29,8 +29,11 @@ function getSiteCopyright(){
 	return copyrightOwner;
 }
 
+function loadSiteMainTitle(){
+	document.title = WebsiteName;
+}
+
 function loadSiteBranding(){
-	// console.log(WebsiteName);
 	document.getElementById('siteBranding').innerHTML = "Blog DOSCOM";
 }
 
