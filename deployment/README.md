@@ -1,0 +1,1 @@
+#### 301 - Move to <https://github.com/doscom-2018/blog-doscom-deploy>
